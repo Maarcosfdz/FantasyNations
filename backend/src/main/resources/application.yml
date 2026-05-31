@@ -1,0 +1,79 @@
+spring:
+  application:
+    name: fantasynations-backend
+
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/fantasynations}
+    username: ${POSTGRES_USER:fantasynations}
+    password: ${POSTGRES_PASSWORD:changeme}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: ${GOOGLE_CLIENT_ID:}
+            client-secret: ${GOOGLE_CLIENT_SECRET:}
+            scope: openid, email, profile
+            redirect-uri: "{baseUrl}/api/auth/oauth2/callback/google"
+
+  mail:
+    host: ${MAIL_HOST:smtp.example.com}
+    port: ${MAIL_PORT:587}
+    username: ${MAIL_USERNAME:}
+    password: ${MAIL_PASSWORD:}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+app:
+  jwt:
+    secret: ${JWT_SECRET:default-dev-secret-change-in-production-please}
+    expiration-seconds: ${TOKEN_EXPIRATION_SECONDS:86400}
+  mail:
+    from: ${MAIL_FROM:noreply@fantasynations.app}
+  data-source:
+    mode: ${DATA_SOURCE_MODE:mock}
+  players:
+    # Path to the World Cup players.json (generated outside this repo).
+    # Defaults to ../fant/players.json relative to the backend working dir.
+    # In Docker the fant/ folder must be mounted into the backend container
+    # and this path overridden, e.g. PLAYERS_JSON_PATH=/app/fant/players.json.
+    json-path: ${PLAYERS_JSON_PATH:../fant/players.json}
+    # If true, the JSON importer runs on each application start and upserts
+    # by (name, national_team). Safe to leave on; runs are idempotent.
+    import-on-startup: ${PLAYERS_IMPORT_ON_STARTUP:true}
+    # If true, also seeds the legacy fictional mock players. Off by default;
+    # enable only for local experiments or tests that depend on mock data.
+    mock-seed-on-startup: ${PLAYERS_MOCK_SEED_ON_STARTUP:false}
+  assets:
+    safe-mode: ${PUBLIC_SAFE_MODE:false}
+    show-player-images: ${SHOW_PLAYER_IMAGES:true}
+    show-team-logos: ${SHOW_TEAM_LOGOS:true}
+
+server:
+  port: ${SERVER_PORT:8080}
+
+springdoc:
+  api-docs:
+    path: /api/docs
+  swagger-ui:
+    path: /api/swagger-ui

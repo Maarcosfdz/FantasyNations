@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm create:*)",
+      "Bash(npm --version)",
+      "Bash(npm install:*)",
+      "Bash(pnpm --version)",
+      "Bash(export PATH=\"$PATH:/c/Users/mroma/AppData/Roaming/npm\")",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm dlx:*)",
+      "Bash(pnpm typecheck:*)",
+      "Bash(pnpm exec:*)",
+      "Bash(pnpm build:*)",
+      "Skill(superpowers:brainstorming)",
+      "Skill(superpowers:brainstorming:*)",
+      "Bash(./mvnw test *)",
+      "Bash(cd .. && ls fant/ && echo \"---players.json head---\" && head -c 2000 fant/players.json && echo \"\" && echo \"---public/players head---\" && ls fant/public/players | head -10 && echo \"---count teams---\" && ls fant/public/players | wc -l)",
+      "Read(//c/Users/mroma/Desktop/Programacion/**)",
+      "Bash(python -c \"import json,collections; d=json.load\\(open\\('fant/players.json',encoding='utf-8'\\)\\); c=collections.Counter\\(p['position'] for p in d['players']\\); print\\('positions:', dict\\(c\\)\\); print\\('null images:', sum\\(1 for p in d['players'] if not p['image_url']\\)\\); print\\('teams:', len\\(set\\(p['national_team'] for p in d['players']\\)\\)\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: fantasynations-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-fantasynations}
+      POSTGRES_USER: ${POSTGRES_USER:-fantasynations}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-fantasynations}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: fantasynations-backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: jdbc:postgresql://postgres:5432/${POSTGRES_DB:-fantasynations}
+      POSTGRES_USER: ${POSTGRES_USER:-fantasynations}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      JWT_SECRET: ${JWT_SECRET:-change-this-secret}
+      TOKEN_EXPIRATION_SECONDS: ${TOKEN_EXPIRATION_SECONDS:-86400}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
+      MAIL_HOST: ${MAIL_HOST:-}
+      MAIL_PORT: ${MAIL_PORT:-587}
+      MAIL_USERNAME: ${MAIL_USERNAME:-}
+      MAIL_PASSWORD: ${MAIL_PASSWORD:-}
+      MAIL_FROM: ${MAIL_FROM:-noreply@fantasynations.app}
+      DATA_SOURCE_MODE: ${DATA_SOURCE_MODE:-mock}
+      PUBLIC_SAFE_MODE: ${PUBLIC_SAFE_MODE:-false}
+      SHOW_PLAYER_IMAGES: ${SHOW_PLAYER_IMAGES:-true}
+      SHOW_TEAM_LOGOS: ${SHOW_TEAM_LOGOS:-true}
+      PLAYERS_JSON_PATH: ${PLAYERS_JSON_PATH:-/app/fant/players.json}
+      PLAYERS_IMPORT_ON_STARTUP: ${PLAYERS_IMPORT_ON_STARTUP:-true}
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./fant:/app/fant:ro
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: fantasynations-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    environment:
+      NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8080}
+      NEXT_PUBLIC_SAFE_MODE: ${NEXT_PUBLIC_SAFE_MODE:-false}
+      NEXT_PUBLIC_SHOW_PLAYER_IMAGES: ${NEXT_PUBLIC_SHOW_PLAYER_IMAGES:-true}
+      NEXT_PUBLIC_SHOW_TEAM_LOGOS: ${NEXT_PUBLIC_SHOW_TEAM_LOGOS:-true}
+      NEXT_PUBLIC_GOOGLE_CLIENT_ID: ${NEXT_PUBLIC_GOOGLE_CLIENT_ID:-}
+    ports:
+      - "3000:3000"
+    volumes:
+      # Serve player images from the canonical fant/ folder at /players/*.
+      # Source of truth lives in fant/public/players so files are easy to replace.
+      - ./fant/public/players:/app/public/players:ro
+
+volumes:
+  postgres_data:

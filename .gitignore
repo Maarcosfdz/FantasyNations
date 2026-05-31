@@ -1,0 +1,46 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Frontend
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/.pnpm-store/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Java / Backend
+backend/target/
+backend/*.jar
+*.class
+*.war
+*.ear
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Gradle (if ever used)
+.gradle/
+build/
+
+# Test output
+backend/src/test/resources/application-test.properties
+coverage/
+.nyc_output/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.swp
+*.swo
+*~

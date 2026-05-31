@@ -1,0 +1,43 @@
+{
+  "competition": "FIFA World Cup Qatar 2022",
+  "source": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+  "total_players": 3,
+  "players": [
+    {
+      "name": "Hernán Galíndez",
+      "national_team": "Ecuador",
+      "shirt_number": "1",
+      "position": "GK",
+      "club": "Aucas",
+      "source_url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Gal%C3%ADndez",
+      "image_url": null,
+      "image_source": null,
+      "license_note": null
+    },
+    {
+      "name": "Virgil van Dijk",
+      "national_team": "Netherlands",
+      "shirt_number": "4",
+      "position": "DF",
+      "club": "Liverpool",
+      "source_url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil_van_Dijk",
+      "image_url": "resolved_by_script",
+      "image_source": "Wikimedia/Wikipedia",
+      "license_note": "Check the image license before production use"
+    },
+    {
+      "name": "Lionel Messi",
+      "national_team": "Argentina",
+      "shirt_number": "10",
+      "position": "FW",
+      "club": "Paris Saint-Germain",
+      "source_url": "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Messi",
+      "image_url": "resolved_by_script",
+      "image_source": "Wikimedia/Wikipedia",
+      "license_note": "Check the image license before production use"
+    }
+  ]
+}

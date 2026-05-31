@@ -1,0 +1,4993 @@
+{
+  "competition": "FIFA World Cup Qatar 2022",
+  "source": "https://www.fifa.com/es/tournaments/mens/worldcup/qatar2022/teams",
+  "total_players": 831,
+  "players": [
+    {
+      "name": "Franco Armani",
+      "national_team": "Argentina",
+      "position": "GK",
+      "image_url": "/players/argentina/franco-armani.png"
+    },
+    {
+      "name": "Geronimo Rulli",
+      "national_team": "Argentina",
+      "position": "GK",
+      "image_url": "/players/argentina/geronimo-rulli.png"
+    },
+    {
+      "name": "Emiliano Martinez",
+      "national_team": "Argentina",
+      "position": "GK",
+      "image_url": "/players/argentina/emiliano-martinez.png"
+    },
+    {
+      "name": "Juan Foyth",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/juan-foyth.png"
+    },
+    {
+      "name": "Nicolas Tagliafico",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/nicolas-tagliafico.png"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/gonzalo-montiel.png"
+    },
+    {
+      "name": "German Pezzella",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/german-pezzella.png"
+    },
+    {
+      "name": "Cristian Romero",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/cristian-romero.png"
+    },
+    {
+      "name": "Nicolas Otamendi",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/nicolas-otamendi.png"
+    },
+    {
+      "name": "Lisandro Martinez",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/lisandro-martinez.png"
+    },
+    {
+      "name": "Nahuel Molina",
+      "national_team": "Argentina",
+      "position": "DefensorDefensor",
+      "image_url": "/players/argentina/nahuel-molina.png"
+    },
+    {
+      "name": "Leandro Paredes",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/leandro-paredes.png"
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/rodrigo-de-paul.png"
+    },
+    {
+      "name": "Marcos Acuna",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/marcos-acuna.png"
+    },
+    {
+      "name": "Exequiel Palacios",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/exequiel-palacios.png"
+    },
+    {
+      "name": "Thiago Almada",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/thiago-almada.png"
+    },
+    {
+      "name": "Alejandro Gomez",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/alejandro-gomez.png"
+    },
+    {
+      "name": "Rodriguez Guido",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/rodriguez-guido.png"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/alexis-mac-allister.png"
+    },
+    {
+      "name": "Enzo Fernandez",
+      "national_team": "Argentina",
+      "position": "MF",
+      "image_url": "/players/argentina/enzo-fernandez.png"
+    },
+    {
+      "name": "Julian Alvarez",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/julian-alvarez.png"
+    },
+    {
+      "name": "Lionel Messi",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/lionel-messi.png"
+    },
+    {
+      "name": "Angel Di Maria",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/angel-di-maria.png"
+    },
+    {
+      "name": "Angel Correa",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/angel-correa.png"
+    },
+    {
+      "name": "Paulo Dybala",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/paulo-dybala.png"
+    },
+    {
+      "name": "Lautaro Martinez",
+      "national_team": "Argentina",
+      "position": "FW",
+      "image_url": "/players/argentina/lautaro-martinez.png"
+    },
+    {
+      "name": "Mathew Ryan",
+      "national_team": "Australia",
+      "position": "GK",
+      "image_url": "/players/australia/mathew-ryan.png"
+    },
+    {
+      "name": "Andrew Redmayne",
+      "national_team": "Australia",
+      "position": "GK",
+      "image_url": "/players/australia/andrew-redmayne.png"
+    },
+    {
+      "name": "Danny Vukovic",
+      "national_team": "Australia",
+      "position": "GK",
+      "image_url": "/players/australia/danny-vukovic.png"
+    },
+    {
+      "name": "Milos Degenek",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/milos-degenek.png"
+    },
+    {
+      "name": "Nathaniel Atkinson",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/nathaniel-atkinson.png"
+    },
+    {
+      "name": "Kye Rowles",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/kye-rowles.png"
+    },
+    {
+      "name": "Fran Karacic",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/fran-karacic.png"
+    },
+    {
+      "name": "Bailey Wright",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/bailey-wright.png"
+    },
+    {
+      "name": "Aziz Behich",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/aziz-behich.png"
+    },
+    {
+      "name": "Harry Souttar",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/harry-souttar.png"
+    },
+    {
+      "name": "Thomas Deng",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/thomas-deng.png"
+    },
+    {
+      "name": "Joel King",
+      "national_team": "Australia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/australia/joel-king.png"
+    },
+    {
+      "name": "Ajdin Hrustic",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/ajdin-hrustic.png"
+    },
+    {
+      "name": "Aaron Mooy",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/aaron-mooy.png"
+    },
+    {
+      "name": "Riley McGREE",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/riley-mcgree.png"
+    },
+    {
+      "name": "Cameron Devlin",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/cameron-devlin.png"
+    },
+    {
+      "name": "Jackson Irvine",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/jackson-irvine.png"
+    },
+    {
+      "name": "Keanu Baccus",
+      "national_team": "Australia",
+      "position": "MF",
+      "image_url": "/players/australia/keanu-baccus.png"
+    },
+    {
+      "name": "Marco Tilio",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/marco-tilio.png"
+    },
+    {
+      "name": "Mathew Leckie",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/mathew-leckie.png"
+    },
+    {
+      "name": "Jamie MacLAREN",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/jamie-maclaren.png"
+    },
+    {
+      "name": "Awer Mabil",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/awer-mabil.png"
+    },
+    {
+      "name": "Mitch Duke",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/mitch-duke.png"
+    },
+    {
+      "name": "Garang Kuol",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/garang-kuol.png"
+    },
+    {
+      "name": "Craig Goodwin",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/craig-goodwin.png"
+    },
+    {
+      "name": "Jason Cummings",
+      "national_team": "Australia",
+      "position": "FW",
+      "image_url": "/players/australia/jason-cummings.png"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "national_team": "Belgium",
+      "position": "GK",
+      "image_url": "/players/belgium/thibaut-courtois.png"
+    },
+    {
+      "name": "Simon Mignolet",
+      "national_team": "Belgium",
+      "position": "GK",
+      "image_url": "/players/belgium/simon-mignolet.png"
+    },
+    {
+      "name": "Koen Casteels",
+      "national_team": "Belgium",
+      "position": "GK",
+      "image_url": "/players/belgium/koen-casteels.png"
+    },
+    {
+      "name": "Toby Alderweireld",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/toby-alderweireld.png"
+    },
+    {
+      "name": "Arthur Theate",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/arthur-theate.png"
+    },
+    {
+      "name": "Wout Faes",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/wout-faes.png"
+    },
+    {
+      "name": "Jan Vertonghen",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/jan-vertonghen.png"
+    },
+    {
+      "name": "Leander Dendoncker",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/leander-dendoncker.png"
+    },
+    {
+      "name": "Zeno Debast",
+      "national_team": "Belgium",
+      "position": "DefensorDefensor",
+      "image_url": "/players/belgium/zeno-debast.png"
+    },
+    {
+      "name": "Axel Witsel",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/axel-witsel.png"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/kevin-de-bruyne.png"
+    },
+    {
+      "name": "Youri Tielemans",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/youri-tielemans.png"
+    },
+    {
+      "name": "Thomas Meunier",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/thomas-meunier.png"
+    },
+    {
+      "name": "Thorgan Hazard",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/thorgan-hazard.png"
+    },
+    {
+      "name": "Amadou Onana",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/amadou-onana.png"
+    },
+    {
+      "name": "Hans Vanaken",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/hans-vanaken.png"
+    },
+    {
+      "name": "Timothy Castagne",
+      "national_team": "Belgium",
+      "position": "MF",
+      "image_url": "/players/belgium/timothy-castagne.png"
+    },
+    {
+      "name": "Romelu Lukaku",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/romelu-lukaku.png"
+    },
+    {
+      "name": "Eden Hazard",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/eden-hazard.png"
+    },
+    {
+      "name": "Yannick Carrasco",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/yannick-carrasco.png"
+    },
+    {
+      "name": "Dries Mertens",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/dries-mertens.png"
+    },
+    {
+      "name": "Leandro Trossard",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/leandro-trossard.png"
+    },
+    {
+      "name": "De Ketelaere",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/de-ketelaere.png"
+    },
+    {
+      "name": "Michy Batshuayi",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/michy-batshuayi.png"
+    },
+    {
+      "name": "Lois Openda",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/lois-openda.png"
+    },
+    {
+      "name": "Jeremy Doku",
+      "national_team": "Belgium",
+      "position": "FW",
+      "image_url": "/players/belgium/jeremy-doku.png"
+    },
+    {
+      "name": "Alisson",
+      "national_team": "Brazil",
+      "position": "GK",
+      "image_url": "/players/brazil/alisson.png"
+    },
+    {
+      "name": "Weverton",
+      "national_team": "Brazil",
+      "position": "GK",
+      "image_url": "/players/brazil/weverton.png"
+    },
+    {
+      "name": "Ederson",
+      "national_team": "Brazil",
+      "position": "GK",
+      "image_url": "/players/brazil/ederson.png"
+    },
+    {
+      "name": "Danilo",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/danilo.png"
+    },
+    {
+      "name": "Thiago Silva",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/thiago-silva.png"
+    },
+    {
+      "name": "Marquinhos",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/marquinhos.png"
+    },
+    {
+      "name": "Alex Sandro",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/alex-sandro.png"
+    },
+    {
+      "name": "Dani Alves",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/dani-alves.png"
+    },
+    {
+      "name": "Eder Militao",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/eder-militao.png"
+    },
+    {
+      "name": "Alex Telles",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/alex-telles.png"
+    },
+    {
+      "name": "Bremer",
+      "national_team": "Brazil",
+      "position": "DefensorDefensor",
+      "image_url": "/players/brazil/bremer.png"
+    },
+    {
+      "name": "Casemiro",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/casemiro.png"
+    },
+    {
+      "name": "Lucas Paqueta",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/lucas-paqueta.png"
+    },
+    {
+      "name": "Fred",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/fred.png"
+    },
+    {
+      "name": "Fabinho",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/fabinho.png"
+    },
+    {
+      "name": "Bruno Guimaraes",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/bruno-guimaraes.png"
+    },
+    {
+      "name": "Everton Ribeiro",
+      "national_team": "Brazil",
+      "position": "MF",
+      "image_url": "/players/brazil/everton-ribeiro.png"
+    },
+    {
+      "name": "Richarlison",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/richarlison.png"
+    },
+    {
+      "name": "Neymar",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/neymar.png"
+    },
+    {
+      "name": "Raphinha",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/raphinha.png"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/gabriel-jesus.png"
+    },
+    {
+      "name": "Antony",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/antony.png"
+    },
+    {
+      "name": "Vinicius Jr",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/vinicius-jr.png"
+    },
+    {
+      "name": "Rodrygo",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/rodrygo.png"
+    },
+    {
+      "name": "Pedro",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/pedro.png"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "national_team": "Brazil",
+      "position": "FW",
+      "image_url": "/players/brazil/gabriel-martinelli.png"
+    },
+    {
+      "name": "Brady Ngapandouetnbu",
+      "national_team": "Cameroon",
+      "position": "GK",
+      "image_url": "/players/cameroon/brady-ngapandouetnbu.png"
+    },
+    {
+      "name": "Devis Epassy",
+      "national_team": "Cameroon",
+      "position": "GK",
+      "image_url": "/players/cameroon/devis-epassy.png"
+    },
+    {
+      "name": "Andre Onana",
+      "national_team": "Cameroon",
+      "position": "GK",
+      "image_url": "/players/cameroon/andre-onana.png"
+    },
+    {
+      "name": "Jerome Ngom Mbekeli",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/jerome-ngom-mbekeli.png"
+    },
+    {
+      "name": "Nicolas Nkoulou",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/nicolas-nkoulou.png"
+    },
+    {
+      "name": "Christopher Wooh",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/christopher-wooh.png"
+    },
+    {
+      "name": "Olivier Mbaizo",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/olivier-mbaizo.png"
+    },
+    {
+      "name": "Collins Fai",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/collins-fai.png"
+    },
+    {
+      "name": "Jean-Charles Castelletto",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/jean-charles-castelletto.png"
+    },
+    {
+      "name": "Enzo Ebosse",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/enzo-ebosse.png"
+    },
+    {
+      "name": "Nouhou Tolo",
+      "national_team": "Cameroon",
+      "position": "DefensorDefensor",
+      "image_url": "/players/cameroon/nouhou-tolo.png"
+    },
+    {
+      "name": "Gael Ondoua",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/gael-ondoua.png"
+    },
+    {
+      "name": "Georges-Kevin Nkoudou",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/georges-kevin-nkoudou.png"
+    },
+    {
+      "name": "Andre-Frank Zambo Anguissa",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/andre-frank-zambo-anguissa.png"
+    },
+    {
+      "name": "Samuel Gouet",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/samuel-gouet.png"
+    },
+    {
+      "name": "Pierre Kunde",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/pierre-kunde.png"
+    },
+    {
+      "name": "Martin Hongla",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/martin-hongla.png"
+    },
+    {
+      "name": "Olivier Ntcham",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/olivier-ntcham.png"
+    },
+    {
+      "name": "Souaibou Marou",
+      "national_team": "Cameroon",
+      "position": "MF",
+      "image_url": "/players/cameroon/souaibou-marou.png"
+    },
+    {
+      "name": "Nicolas Ngamaleu",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/nicolas-ngamaleu.png"
+    },
+    {
+      "name": "Jean-Pierre Nsame",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/jean-pierre-nsame.png"
+    },
+    {
+      "name": "Vincent Aboubakar",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/vincent-aboubakar.png"
+    },
+    {
+      "name": "Christian Bassogog",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/christian-bassogog.png"
+    },
+    {
+      "name": "Karl Toko Ekambi",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/karl-toko-ekambi.png"
+    },
+    {
+      "name": "Eric Maxim Choupo-moting",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/eric-maxim-choupo-moting.png"
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "national_team": "Cameroon",
+      "position": "FW",
+      "image_url": "/players/cameroon/bryan-mbeumo.png"
+    },
+    {
+      "name": "Dayne St. Clair",
+      "national_team": "Canada",
+      "position": "GK",
+      "image_url": "/players/canada/dayne-st-clair.png"
+    },
+    {
+      "name": "James Pantemis",
+      "national_team": "Canada",
+      "position": "GK",
+      "image_url": "/players/canada/james-pantemis.png"
+    },
+    {
+      "name": "Milan Borjan",
+      "national_team": "Canada",
+      "position": "GK",
+      "image_url": "/players/canada/milan-borjan.png"
+    },
+    {
+      "name": "Alistair Johnston",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/alistair-johnston.png"
+    },
+    {
+      "name": "Sam Adekugbe",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/sam-adekugbe.png"
+    },
+    {
+      "name": "Kamal Miller",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/kamal-miller.png"
+    },
+    {
+      "name": "Steven Vitoria",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/steven-vitoria.png"
+    },
+    {
+      "name": "Richie Laryea",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/richie-laryea.png"
+    },
+    {
+      "name": "Derek Cornelius",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/derek-cornelius.png"
+    },
+    {
+      "name": "Joel Waterman",
+      "national_team": "Canada",
+      "position": "DefensorDefensor",
+      "image_url": "/players/canada/joel-waterman.png"
+    },
+    {
+      "name": "Samuel Piette",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/samuel-piette.png"
+    },
+    {
+      "name": "Stephen Eustaquio",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/stephen-eustaquio.png"
+    },
+    {
+      "name": "Liam Fraser",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/liam-fraser.png"
+    },
+    {
+      "name": "Junior Hoilett",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/junior-hoilett.png"
+    },
+    {
+      "name": "Atiba Hutchinson",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/atiba-hutchinson.png"
+    },
+    {
+      "name": "Mark-Anthony Kaye",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/mark-anthony-kaye.png"
+    },
+    {
+      "name": "Ismael Kone",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/ismael-kone.png"
+    },
+    {
+      "name": "Jonathan Osorio",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/jonathan-osorio.png"
+    },
+    {
+      "name": "Liam Millar",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/liam-millar.png"
+    },
+    {
+      "name": "David Wotherspoon",
+      "national_team": "Canada",
+      "position": "MF",
+      "image_url": "/players/canada/david-wotherspoon.png"
+    },
+    {
+      "name": "Lucas Cavallini",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/lucas-cavallini.png"
+    },
+    {
+      "name": "Tajon Buchanan",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/tajon-buchanan.png"
+    },
+    {
+      "name": "Ike Ugbo",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/ike-ugbo.png"
+    },
+    {
+      "name": "Cyle Larin",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/cyle-larin.png"
+    },
+    {
+      "name": "Alphonso Davies",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/alphonso-davies.png"
+    },
+    {
+      "name": "Jonathan David",
+      "national_team": "Canada",
+      "position": "FW",
+      "image_url": "/players/canada/jonathan-david.png"
+    },
+    {
+      "name": "Keylor Navas",
+      "national_team": "Costa Rica",
+      "position": "GK",
+      "image_url": "/players/costa-rica/keylor-navas.png"
+    },
+    {
+      "name": "Esteban Alvarado",
+      "national_team": "Costa Rica",
+      "position": "GK",
+      "image_url": "/players/costa-rica/esteban-alvarado.png"
+    },
+    {
+      "name": "Patrick Sequeira",
+      "national_team": "Costa Rica",
+      "position": "GK",
+      "image_url": "/players/costa-rica/patrick-sequeira.png"
+    },
+    {
+      "name": "Juan Vargas",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/juan-vargas.png"
+    },
+    {
+      "name": "Keysher Fuller",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/keysher-fuller.png"
+    },
+    {
+      "name": "Oscar Duarte",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/oscar-duarte.png"
+    },
+    {
+      "name": "Bryan Oviedo",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/bryan-oviedo.png"
+    },
+    {
+      "name": "Francisco Calvo",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/francisco-calvo.png"
+    },
+    {
+      "name": "Carlos Martinez",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/carlos-martinez.png"
+    },
+    {
+      "name": "Kendall Waston",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/kendall-waston.png"
+    },
+    {
+      "name": "Ronald Matarrita",
+      "national_team": "Costa Rica",
+      "position": "DefensorDefensor",
+      "image_url": "/players/costa-rica/ronald-matarrita.png"
+    },
+    {
+      "name": "Daniel Chacon",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/daniel-chacon.png"
+    },
+    {
+      "name": "Celso Borges",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/celso-borges.png"
+    },
+    {
+      "name": "Jewison Bennette",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/jewison-bennette.png"
+    },
+    {
+      "name": "Bryan Ruiz",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/bryan-ruiz.png"
+    },
+    {
+      "name": "Gerson Torres",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/gerson-torres.png"
+    },
+    {
+      "name": "Youstin Salas",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/youstin-salas.png"
+    },
+    {
+      "name": "Yeltsin Tejeda",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/yeltsin-tejeda.png"
+    },
+    {
+      "name": "Brandon Aguilera",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/brandon-aguilera.png"
+    },
+    {
+      "name": "Douglas Lopez",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/douglas-lopez.png"
+    },
+    {
+      "name": "Roan Wilson",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/roan-wilson.png"
+    },
+    {
+      "name": "Anthony Hernandez",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/anthony-hernandez.png"
+    },
+    {
+      "name": "Alvaro Zamora",
+      "national_team": "Costa Rica",
+      "position": "MF",
+      "image_url": "/players/costa-rica/alvaro-zamora.png"
+    },
+    {
+      "name": "Anthony Contreras",
+      "national_team": "Costa Rica",
+      "position": "FW",
+      "image_url": "/players/costa-rica/anthony-contreras.png"
+    },
+    {
+      "name": "Johan Venegas",
+      "national_team": "Costa Rica",
+      "position": "FW",
+      "image_url": "/players/costa-rica/johan-venegas.png"
+    },
+    {
+      "name": "Joel Campbell",
+      "national_team": "Costa Rica",
+      "position": "FW",
+      "image_url": "/players/costa-rica/joel-campbell.png"
+    },
+    {
+      "name": "Dominik Livakovic",
+      "national_team": "Croatia",
+      "position": "GK",
+      "image_url": "/players/croatia/dominik-livakovic.png"
+    },
+    {
+      "name": "Ivo Grbic",
+      "national_team": "Croatia",
+      "position": "GK",
+      "image_url": "/players/croatia/ivo-grbic.png"
+    },
+    {
+      "name": "Ivica Ivusic",
+      "national_team": "Croatia",
+      "position": "GK",
+      "image_url": "/players/croatia/ivica-ivusic.png"
+    },
+    {
+      "name": "Josip Stanisic",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/josip-stanisic.png"
+    },
+    {
+      "name": "Borna Barisic",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/borna-barisic.png"
+    },
+    {
+      "name": "Martin Erlic",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/martin-erlic.png"
+    },
+    {
+      "name": "Dejan Lovren",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/dejan-lovren.png"
+    },
+    {
+      "name": "Borna Sosa",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/borna-sosa.png"
+    },
+    {
+      "name": "Josko Gvardiol",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/josko-gvardiol.png"
+    },
+    {
+      "name": "Domagoj Vida",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/domagoj-vida.png"
+    },
+    {
+      "name": "Josip Juranovic",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/josip-juranovic.png"
+    },
+    {
+      "name": "Josip Sutalo",
+      "national_team": "Croatia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/croatia/josip-sutalo.png"
+    },
+    {
+      "name": "Lovro Majer",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/lovro-majer.png"
+    },
+    {
+      "name": "Mateo Kovacic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/mateo-kovacic.png"
+    },
+    {
+      "name": "Luka Modric",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/luka-modric.png"
+    },
+    {
+      "name": "Marcelo Brozovic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/marcelo-brozovic.png"
+    },
+    {
+      "name": "Nikola Vlasic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/nikola-vlasic.png"
+    },
+    {
+      "name": "Mario Pasalic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/mario-pasalic.png"
+    },
+    {
+      "name": "Luka Sucic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/luka-sucic.png"
+    },
+    {
+      "name": "Kristijan Jakic",
+      "national_team": "Croatia",
+      "position": "MF",
+      "image_url": "/players/croatia/kristijan-jakic.png"
+    },
+    {
+      "name": "Ivan Perisic",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/ivan-perisic.png"
+    },
+    {
+      "name": "Andrej Kramaric",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/andrej-kramaric.png"
+    },
+    {
+      "name": "Marko Livaja",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/marko-livaja.png"
+    },
+    {
+      "name": "Bruno Petkovic",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/bruno-petkovic.png"
+    },
+    {
+      "name": "Ante Budimir",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/ante-budimir.png"
+    },
+    {
+      "name": "Mislav Orsic",
+      "national_team": "Croatia",
+      "position": "FW",
+      "image_url": "/players/croatia/mislav-orsic.png"
+    },
+    {
+      "name": "Kasper Schmeichel",
+      "national_team": "Denmark",
+      "position": "GK",
+      "image_url": "/players/denmark/kasper-schmeichel.png"
+    },
+    {
+      "name": "Oliver Christensen",
+      "national_team": "Denmark",
+      "position": "GK",
+      "image_url": "/players/denmark/oliver-christensen.png"
+    },
+    {
+      "name": "Frederik Ronnow",
+      "national_team": "Denmark",
+      "position": "GK",
+      "image_url": "/players/denmark/frederik-ronnow.png"
+    },
+    {
+      "name": "Joachim Andersen",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/joachim-andersen.png"
+    },
+    {
+      "name": "Victor Nelsson",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/victor-nelsson.png"
+    },
+    {
+      "name": "Simon Kjaer",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/simon-kjaer.png"
+    },
+    {
+      "name": "Joakim Maehle",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/joakim-maehle.png"
+    },
+    {
+      "name": "Andreas Christensen",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/andreas-christensen.png"
+    },
+    {
+      "name": "Rasmus Kristensen",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/rasmus-kristensen.png"
+    },
+    {
+      "name": "Jens Stryger Larsen",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/jens-stryger-larsen.png"
+    },
+    {
+      "name": "Daniel Wass",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/daniel-wass.png"
+    },
+    {
+      "name": "Alexander Bah",
+      "national_team": "Denmark",
+      "position": "DefensorDefensor",
+      "image_url": "/players/denmark/alexander-bah.png"
+    },
+    {
+      "name": "Mathias Jensen",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/mathias-jensen.png"
+    },
+    {
+      "name": "Thomas Delaney",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/thomas-delaney.png"
+    },
+    {
+      "name": "Christian Eriksen",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/christian-eriksen.png"
+    },
+    {
+      "name": "Andreas Skov Olsen",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/andreas-skov-olsen.png"
+    },
+    {
+      "name": "Mikkel Damsgaard",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/mikkel-damsgaard.png"
+    },
+    {
+      "name": "Christian Norgaard",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/christian-norgaard.png"
+    },
+    {
+      "name": "Pierre-Emile Hojbjerg",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/pierre-emile-hojbjerg.png"
+    },
+    {
+      "name": "Robert Skov",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/robert-skov.png"
+    },
+    {
+      "name": "Jesper Lindstrom",
+      "national_team": "Denmark",
+      "position": "MF",
+      "image_url": "/players/denmark/jesper-lindstrom.png"
+    },
+    {
+      "name": "Martin Braithwaite",
+      "national_team": "Denmark",
+      "position": "FW",
+      "image_url": "/players/denmark/martin-braithwaite.png"
+    },
+    {
+      "name": "Kasper Dolberg",
+      "national_team": "Denmark",
+      "position": "FW",
+      "image_url": "/players/denmark/kasper-dolberg.png"
+    },
+    {
+      "name": "Jonas Wind",
+      "national_team": "Denmark",
+      "position": "FW",
+      "image_url": "/players/denmark/jonas-wind.png"
+    },
+    {
+      "name": "Yussuf Yurary Poulsen",
+      "national_team": "Denmark",
+      "position": "FW",
+      "image_url": "/players/denmark/yussuf-yurary-poulsen.png"
+    },
+    {
+      "name": "Andreas Cornelius",
+      "national_team": "Denmark",
+      "position": "FW",
+      "image_url": "/players/denmark/andreas-cornelius.png"
+    },
+    {
+      "name": "Hernan Galindez",
+      "national_team": "Ecuador",
+      "position": "GK",
+      "image_url": "/players/ecuador/hernan-galindez.png"
+    },
+    {
+      "name": "Moises Ramirez",
+      "national_team": "Ecuador",
+      "position": "GK",
+      "image_url": "/players/ecuador/moises-ramirez.png"
+    },
+    {
+      "name": "Alexander Dominguez",
+      "national_team": "Ecuador",
+      "position": "GK",
+      "image_url": "/players/ecuador/alexander-dominguez.png"
+    },
+    {
+      "name": "Felix Torres",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/felix-torres.png"
+    },
+    {
+      "name": "Piero Hincapie",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/piero-hincapie.png"
+    },
+    {
+      "name": "Robert Arboleda",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/robert-arboleda.png"
+    },
+    {
+      "name": "William Pacho",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/william-pacho.png"
+    },
+    {
+      "name": "Pervis Estupinan",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/pervis-estupinan.png"
+    },
+    {
+      "name": "Xavier Arreaga",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/xavier-arreaga.png"
+    },
+    {
+      "name": "Angelo Preciado",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/angelo-preciado.png"
+    },
+    {
+      "name": "Diego Palacios",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ecuador/diego-palacios.png"
+    },
+    {
+      "name": "Jackson Porozo",
+      "national_team": "Ecuador",
+      "position": "DefensorDefensor",
+      "image_url": null
+    },
+    {
+      "name": "Jose Cifuentes",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/jose-cifuentes.png"
+    },
+    {
+      "name": "Carlos Gruezo",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/carlos-gruezo.png"
+    },
+    {
+      "name": "Eduar Preciado",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/eduar-preciado.png"
+    },
+    {
+      "name": "Romario Ibarra",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/romario-ibarra.png"
+    },
+    {
+      "name": "Angel Mena",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/angel-mena.png"
+    },
+    {
+      "name": "Jeremy Sarmiento",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/jeremy-sarmiento.png"
+    },
+    {
+      "name": "Gonzalo Plata",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/gonzalo-plata.png"
+    },
+    {
+      "name": "Jhegson Mendez",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/jhegson-mendez.png"
+    },
+    {
+      "name": "Alan Franco",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/alan-franco.png"
+    },
+    {
+      "name": "Moises Caicedo",
+      "national_team": "Ecuador",
+      "position": "MF",
+      "image_url": "/players/ecuador/moises-caicedo.png"
+    },
+    {
+      "name": "Michael Estrada",
+      "national_team": "Ecuador",
+      "position": "FW",
+      "image_url": "/players/ecuador/michael-estrada.png"
+    },
+    {
+      "name": "Enner Valencia",
+      "national_team": "Ecuador",
+      "position": "FW",
+      "image_url": "/players/ecuador/enner-valencia.png"
+    },
+    {
+      "name": "Djorkaeff Reasco",
+      "national_team": "Ecuador",
+      "position": "FW",
+      "image_url": "/players/ecuador/djorkaeff-reasco.png"
+    },
+    {
+      "name": "Kevin Rodriguez",
+      "national_team": "Ecuador",
+      "position": "FW",
+      "image_url": "/players/ecuador/kevin-rodriguez.png"
+    },
+    {
+      "name": "Jordan Pickford",
+      "national_team": "England",
+      "position": "GK",
+      "image_url": "/players/england/jordan-pickford.png"
+    },
+    {
+      "name": "Nick Pope",
+      "national_team": "England",
+      "position": "GK",
+      "image_url": "/players/england/nick-pope.png"
+    },
+    {
+      "name": "Aaron Ramsdale",
+      "national_team": "England",
+      "position": "GK",
+      "image_url": "/players/england/aaron-ramsdale.png"
+    },
+    {
+      "name": "Kyle Walker",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/kyle-walker.png"
+    },
+    {
+      "name": "Luke Shaw",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/luke-shaw.png"
+    },
+    {
+      "name": "John Stones",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/john-stones.png"
+    },
+    {
+      "name": "Harry Maguire",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/harry-maguire.png"
+    },
+    {
+      "name": "Kieran Trippier",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/kieran-trippier.png"
+    },
+    {
+      "name": "Eric Dier",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/eric-dier.png"
+    },
+    {
+      "name": "Conor Coady",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/conor-coady.png"
+    },
+    {
+      "name": "Trent Alexander-arnold",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/trent-alexander-arnold.png"
+    },
+    {
+      "name": "Ben White",
+      "national_team": "England",
+      "position": "DefensorDefensor",
+      "image_url": "/players/england/ben-white.png"
+    },
+    {
+      "name": "Declan Rice",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/declan-rice.png"
+    },
+    {
+      "name": "Jordan Henderson",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/jordan-henderson.png"
+    },
+    {
+      "name": "Kalvin Phillips",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/kalvin-phillips.png"
+    },
+    {
+      "name": "Mason Mount",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/mason-mount.png"
+    },
+    {
+      "name": "Phil Foden",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/phil-foden.png"
+    },
+    {
+      "name": "Jude Bellingham",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/jude-bellingham.png"
+    },
+    {
+      "name": "James Maddison",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/james-maddison.png"
+    },
+    {
+      "name": "Conor Gallagher",
+      "national_team": "England",
+      "position": "MF",
+      "image_url": "/players/england/conor-gallagher.png"
+    },
+    {
+      "name": "Jack Grealish",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/jack-grealish.png"
+    },
+    {
+      "name": "Harry Kane",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/harry-kane.png"
+    },
+    {
+      "name": "Raheem Sterling",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/raheem-sterling.png"
+    },
+    {
+      "name": "Marcus Rashford",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/marcus-rashford.png"
+    },
+    {
+      "name": "Bukayo Saka",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/bukayo-saka.png"
+    },
+    {
+      "name": "Callum Wilson",
+      "national_team": "England",
+      "position": "FW",
+      "image_url": "/players/england/callum-wilson.png"
+    },
+    {
+      "name": "Hugo Lloris",
+      "national_team": "France",
+      "position": "GK",
+      "image_url": "/players/france/hugo-lloris.png"
+    },
+    {
+      "name": "Steve Mandanda",
+      "national_team": "France",
+      "position": "GK",
+      "image_url": "/players/france/steve-mandanda.png"
+    },
+    {
+      "name": "Alphonse Areola",
+      "national_team": "France",
+      "position": "GK",
+      "image_url": "/players/france/alphonse-areola.png"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/benjamin-pavard.png"
+    },
+    {
+      "name": "Axel Disasi",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/axel-disasi.png"
+    },
+    {
+      "name": "Raphael Varane",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/raphael-varane.png"
+    },
+    {
+      "name": "Jules Kounde",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/jules-kounde.png"
+    },
+    {
+      "name": "Youssouf Fofana",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/youssouf-fofana.png"
+    },
+    {
+      "name": "William Saliba",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/william-saliba.png"
+    },
+    {
+      "name": "Dayot Upamecano",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/dayot-upamecano.png"
+    },
+    {
+      "name": "Lucas Hernandez",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/lucas-hernandez.png"
+    },
+    {
+      "name": "Theo Hernandez",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/theo-hernandez.png"
+    },
+    {
+      "name": "Ibrahima Konate",
+      "national_team": "France",
+      "position": "DefensorDefensor",
+      "image_url": "/players/france/ibrahima-konate.png"
+    },
+    {
+      "name": "Matteo Guendouzi",
+      "national_team": "France",
+      "position": "MF",
+      "image_url": "/players/france/matteo-guendouzi.png"
+    },
+    {
+      "name": "Aurelien Tchouameni",
+      "national_team": "France",
+      "position": "MF",
+      "image_url": "/players/france/aurelien-tchouameni.png"
+    },
+    {
+      "name": "Adrien Rabiot",
+      "national_team": "France",
+      "position": "MF",
+      "image_url": "/players/france/adrien-rabiot.png"
+    },
+    {
+      "name": "Jordan Veretout",
+      "national_team": "France",
+      "position": "MF",
+      "image_url": "/players/france/jordan-veretout.png"
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "national_team": "France",
+      "position": "MF",
+      "image_url": "/players/france/eduardo-camavinga.png"
+    },
+    {
+      "name": "Antoine Griezmann",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/antoine-griezmann.png"
+    },
+    {
+      "name": "Olivier Giroud",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/olivier-giroud.png"
+    },
+    {
+      "name": "Kylian Mbappe",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/kylian-mbappe.png"
+    },
+    {
+      "name": "Ousmane Dembele",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/ousmane-dembele.png"
+    },
+    {
+      "name": "Randal Kolo Muani",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/randal-kolo-muani.png"
+    },
+    {
+      "name": "Karim Benzema",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/karim-benzema.png"
+    },
+    {
+      "name": "Kingsley Coman",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/kingsley-coman.png"
+    },
+    {
+      "name": "Marcus Thuram",
+      "national_team": "France",
+      "position": "FW",
+      "image_url": "/players/france/marcus-thuram.png"
+    },
+    {
+      "name": "Manuel Neuer",
+      "national_team": "Germany",
+      "position": "GK",
+      "image_url": "/players/germany/manuel-neuer.png"
+    },
+    {
+      "name": "Kevin Trapp",
+      "national_team": "Germany",
+      "position": "GK",
+      "image_url": "/players/germany/kevin-trapp.png"
+    },
+    {
+      "name": "Marc-Andre Ter Stegen",
+      "national_team": "Germany",
+      "position": "GK",
+      "image_url": "/players/germany/marc-andre-ter-stegen.png"
+    },
+    {
+      "name": "Antonio Ruediger",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/antonio-ruediger.png"
+    },
+    {
+      "name": "David Raum",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/david-raum.png"
+    },
+    {
+      "name": "Matthias Ginter",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/matthias-ginter.png"
+    },
+    {
+      "name": "Thilo Kehrer",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/thilo-kehrer.png"
+    },
+    {
+      "name": "Niklas Suele",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/niklas-suele.png"
+    },
+    {
+      "name": "Lukas Klostermann",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/lukas-klostermann.png"
+    },
+    {
+      "name": "Christian Guenter",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/christian-guenter.png"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/nico-schlotterbeck.png"
+    },
+    {
+      "name": "Armel Bella Kotchap",
+      "national_team": "Germany",
+      "position": "DefensorDefensor",
+      "image_url": "/players/germany/armel-bella-kotchap.png"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/joshua-kimmich.png"
+    },
+    {
+      "name": "Leon Goretzka",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/leon-goretzka.png"
+    },
+    {
+      "name": "Mario Goetze",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/mario-goetze.png"
+    },
+    {
+      "name": "Thomas Mueller",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/thomas-mueller.png"
+    },
+    {
+      "name": "Jamal Musiala",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/jamal-musiala.png"
+    },
+    {
+      "name": "Julian Brandt",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/julian-brandt.png"
+    },
+    {
+      "name": "Jonas Hofmann",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/jonas-hofmann.png"
+    },
+    {
+      "name": "Leroy Sane",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/leroy-sane.png"
+    },
+    {
+      "name": "Ilkay Guendogan",
+      "national_team": "Germany",
+      "position": "MF",
+      "image_url": "/players/germany/ilkay-guendogan.png"
+    },
+    {
+      "name": "Kai Havertz",
+      "national_team": "Germany",
+      "position": "FW",
+      "image_url": "/players/germany/kai-havertz.png"
+    },
+    {
+      "name": "Niclas Fuellkrug",
+      "national_team": "Germany",
+      "position": "FW",
+      "image_url": "/players/germany/niclas-fuellkrug.png"
+    },
+    {
+      "name": "Serge Gnabry",
+      "national_team": "Germany",
+      "position": "FW",
+      "image_url": "/players/germany/serge-gnabry.png"
+    },
+    {
+      "name": "Karim Adeyemi",
+      "national_team": "Germany",
+      "position": "FW",
+      "image_url": "/players/germany/karim-adeyemi.png"
+    },
+    {
+      "name": "Youssoufa Moukoko",
+      "national_team": "Germany",
+      "position": "FW",
+      "image_url": "/players/germany/youssoufa-moukoko.png"
+    },
+    {
+      "name": "Lawrence Ati Zigi",
+      "national_team": "Ghana",
+      "position": "GK",
+      "image_url": "/players/ghana/lawrence-ati-zigi.png"
+    },
+    {
+      "name": "Danlad Ibrahim",
+      "national_team": "Ghana",
+      "position": "GK",
+      "image_url": "/players/ghana/danlad-ibrahim.png"
+    },
+    {
+      "name": "Abdul Manaf Nurudeen",
+      "national_team": "Ghana",
+      "position": "GK",
+      "image_url": "/players/ghana/abdul-manaf-nurudeen.png"
+    },
+    {
+      "name": "Tariq Lamptey",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/tariq-lamptey.png"
+    },
+    {
+      "name": "Denis Odoi",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/denis-odoi.png"
+    },
+    {
+      "name": "Mohammed Salisu",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/mohammed-salisu.png"
+    },
+    {
+      "name": "Gideon Mensah",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/gideon-mensah.png"
+    },
+    {
+      "name": "Joseph Aidoo",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/joseph-aidoo.png"
+    },
+    {
+      "name": "Baba Rahman",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/baba-rahman.png"
+    },
+    {
+      "name": "Daniel Amartey",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/daniel-amartey.png"
+    },
+    {
+      "name": "Alexander Djiku",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/alexander-djiku.png"
+    },
+    {
+      "name": "Seidu Alidu",
+      "national_team": "Ghana",
+      "position": "DefensorDefensor",
+      "image_url": "/players/ghana/seidu-alidu.png"
+    },
+    {
+      "name": "Thomas Partey",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/thomas-partey.png"
+    },
+    {
+      "name": "Elisha Owusu",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/elisha-owusu.png"
+    },
+    {
+      "name": "Abdul Fatawu Issahaku",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/abdul-fatawu-issahaku.png"
+    },
+    {
+      "name": "Daniel-Kofi Kyereh",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/daniel-kofi-kyereh.png"
+    },
+    {
+      "name": "Osman Bukari",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/osman-bukari.png"
+    },
+    {
+      "name": "Daniel Afriyie",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/daniel-afriyie.png"
+    },
+    {
+      "name": "Kudus Mohammed",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/kudus-mohammed.png"
+    },
+    {
+      "name": "Salis Abdul Samed",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/salis-abdul-samed.png"
+    },
+    {
+      "name": "Kamaldeen Sulemana",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/kamaldeen-sulemana.png"
+    },
+    {
+      "name": "Kamal Sowah",
+      "national_team": "Ghana",
+      "position": "MF",
+      "image_url": "/players/ghana/kamal-sowah.png"
+    },
+    {
+      "name": "Jordan Ayew",
+      "national_team": "Ghana",
+      "position": "FW",
+      "image_url": "/players/ghana/jordan-ayew.png"
+    },
+    {
+      "name": "Andre Ayew",
+      "national_team": "Ghana",
+      "position": "FW",
+      "image_url": "/players/ghana/andre-ayew.png"
+    },
+    {
+      "name": "Inaki Williams",
+      "national_team": "Ghana",
+      "position": "FW",
+      "image_url": "/players/ghana/inaki-williams.png"
+    },
+    {
+      "name": "Antoine Semenyo",
+      "national_team": "Ghana",
+      "position": "FW",
+      "image_url": "/players/ghana/antoine-semenyo.png"
+    },
+    {
+      "name": "Ali Beiranvand",
+      "national_team": "Iran",
+      "position": "GK",
+      "image_url": "/players/iran/ali-beiranvand.png"
+    },
+    {
+      "name": "Payam Niazmand",
+      "national_team": "Iran",
+      "position": "GK",
+      "image_url": "/players/iran/payam-niazmand.png"
+    },
+    {
+      "name": "Amir Abedzadeh",
+      "national_team": "Iran",
+      "position": "GK",
+      "image_url": "/players/iran/amir-abedzadeh.png"
+    },
+    {
+      "name": "Hossein Hosseini",
+      "national_team": "Iran",
+      "position": "GK",
+      "image_url": "/players/iran/hossein-hosseini.png"
+    },
+    {
+      "name": "Sadegh Moharrami",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/sadegh-moharrami.png"
+    },
+    {
+      "name": "Ehsan Haji Safi",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/ehsan-haji-safi.png"
+    },
+    {
+      "name": "Shojae Khalilzadeh",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/shojae-khalilzadeh.png"
+    },
+    {
+      "name": "Milad Mohammadi",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/milad-mohammadi.png"
+    },
+    {
+      "name": "Morteza Pouraliganji",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/morteza-pouraliganji.png"
+    },
+    {
+      "name": "Mohammad Kanaani",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/mohammad-kanaani.png"
+    },
+    {
+      "name": "Roozbeh Cheshmi",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/roozbeh-cheshmi.png"
+    },
+    {
+      "name": "Majid Hosseini",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/majid-hosseini.png"
+    },
+    {
+      "name": "Ramin Rezaeian",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/ramin-rezaeian.png"
+    },
+    {
+      "name": "Abolfazl Jalali",
+      "national_team": "Iran",
+      "position": "DefensorDefensor",
+      "image_url": "/players/iran/abolfazl-jalali.png"
+    },
+    {
+      "name": "Saeid Ezatolahi",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/saeid-ezatolahi.png"
+    },
+    {
+      "name": "Alireza Jahanbakhsh",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/alireza-jahanbakhsh.png"
+    },
+    {
+      "name": "Vahid Amiri",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/vahid-amiri.png"
+    },
+    {
+      "name": "Saman Ghoddos",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/saman-ghoddos.png"
+    },
+    {
+      "name": "Mahdi Torabi",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/mahdi-torabi.png"
+    },
+    {
+      "name": "Ali Gholizadeh",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/ali-gholizadeh.png"
+    },
+    {
+      "name": "Ali Karimi",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/ali-karimi.png"
+    },
+    {
+      "name": "Ahmad Noorollahi",
+      "national_team": "Iran",
+      "position": "MF",
+      "image_url": "/players/iran/ahmad-noorollahi.png"
+    },
+    {
+      "name": "Mehdi Taremi",
+      "national_team": "Iran",
+      "position": "FW",
+      "image_url": "/players/iran/mehdi-taremi.png"
+    },
+    {
+      "name": "Karim Ansarifard",
+      "national_team": "Iran",
+      "position": "FW",
+      "image_url": "/players/iran/karim-ansarifard.png"
+    },
+    {
+      "name": "Sardar Azmoun",
+      "national_team": "Iran",
+      "position": "FW",
+      "image_url": "/players/iran/sardar-azmoun.png"
+    },
+    {
+      "name": "Eiji Kawashima",
+      "national_team": "Japan",
+      "position": "GK",
+      "image_url": "/players/japan/eiji-kawashima.png"
+    },
+    {
+      "name": "Shuichi Gonda",
+      "national_team": "Japan",
+      "position": "GK",
+      "image_url": "/players/japan/shuichi-gonda.png"
+    },
+    {
+      "name": "Daniel Schmidt",
+      "national_team": "Japan",
+      "position": "GK",
+      "image_url": "/players/japan/daniel-schmidt.png"
+    },
+    {
+      "name": "Miki Yamane",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/miki-yamane.png"
+    },
+    {
+      "name": "Shogo Taniguchi",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/shogo-taniguchi.png"
+    },
+    {
+      "name": "Kou Itakura",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/kou-itakura.png"
+    },
+    {
+      "name": "Yuto Nagatomo",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/yuto-nagatomo.png"
+    },
+    {
+      "name": "Takehiro Tomiyasu",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/takehiro-tomiyasu.png"
+    },
+    {
+      "name": "Hiroki Sakai",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/hiroki-sakai.png"
+    },
+    {
+      "name": "Maya Yoshida",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/maya-yoshida.png"
+    },
+    {
+      "name": "Hiroki Ito",
+      "national_team": "Japan",
+      "position": "DefensorDefensor",
+      "image_url": "/players/japan/hiroki-ito.png"
+    },
+    {
+      "name": "Wataru Endo",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/wataru-endo.png"
+    },
+    {
+      "name": "Gaku Shibasaki",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/gaku-shibasaki.png"
+    },
+    {
+      "name": "Ritsu Doan",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/ritsu-doan.png"
+    },
+    {
+      "name": "Kaoru Mitoma",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/kaoru-mitoma.png"
+    },
+    {
+      "name": "Takumi Minamino",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/takumi-minamino.png"
+    },
+    {
+      "name": "Takefusa Kubo",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/takefusa-kubo.png"
+    },
+    {
+      "name": "Hidemasa Morita",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/hidemasa-morita.png"
+    },
+    {
+      "name": "Junya Ito",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/junya-ito.png"
+    },
+    {
+      "name": "Daichi Kamada",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/daichi-kamada.png"
+    },
+    {
+      "name": "Ao Tanaka",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/ao-tanaka.png"
+    },
+    {
+      "name": "Yuki Soma",
+      "national_team": "Japan",
+      "position": "MF",
+      "image_url": "/players/japan/yuki-soma.png"
+    },
+    {
+      "name": "Takuma Asano",
+      "national_team": "Japan",
+      "position": "FW",
+      "image_url": "/players/japan/takuma-asano.png"
+    },
+    {
+      "name": "Shuto Machino",
+      "national_team": "Japan",
+      "position": "FW",
+      "image_url": "/players/japan/shuto-machino.png"
+    },
+    {
+      "name": "Ayase Ueda",
+      "national_team": "Japan",
+      "position": "FW",
+      "image_url": "/players/japan/ayase-ueda.png"
+    },
+    {
+      "name": "Daizen Maeda",
+      "national_team": "Japan",
+      "position": "FW",
+      "image_url": "/players/japan/daizen-maeda.png"
+    },
+    {
+      "name": "Kim Seunggyu",
+      "national_team": "Korea Republic",
+      "position": "GK",
+      "image_url": "/players/korea-republic/kim-seunggyu.png"
+    },
+    {
+      "name": "Song Bumkeun",
+      "national_team": "Korea Republic",
+      "position": "GK",
+      "image_url": "/players/korea-republic/song-bumkeun.png"
+    },
+    {
+      "name": "Jo Hyeonwoo",
+      "national_team": "Korea Republic",
+      "position": "GK",
+      "image_url": "/players/korea-republic/jo-hyeonwoo.png"
+    },
+    {
+      "name": "Yoon Jonggyu",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/yoon-jonggyu.png"
+    },
+    {
+      "name": "Kim Jinsu",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kim-jinsu.png"
+    },
+    {
+      "name": "Kim Minjae",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kim-minjae.png"
+    },
+    {
+      "name": "Hong Chul",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/hong-chul.png"
+    },
+    {
+      "name": "Kim Moonhwan",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kim-moonhwan.png"
+    },
+    {
+      "name": "Kim Younggwon",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kim-younggwon.png"
+    },
+    {
+      "name": "Kwon Kyungwon",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kwon-kyungwon.png"
+    },
+    {
+      "name": "Kim Taehwan",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/kim-taehwan.png"
+    },
+    {
+      "name": "Cho Yumin",
+      "national_team": "Korea Republic",
+      "position": "DefensorDefensor",
+      "image_url": "/players/korea-republic/cho-yumin.png"
+    },
+    {
+      "name": "Jung Wooyoung",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/jung-wooyoung.png"
+    },
+    {
+      "name": "Hwang Inbeom",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/hwang-inbeom.png"
+    },
+    {
+      "name": "Son Heungmin",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/son-heungmin.png"
+    },
+    {
+      "name": "Paik Seungho",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/paik-seungho.png"
+    },
+    {
+      "name": "Lee Jaesung",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/lee-jaesung.png"
+    },
+    {
+      "name": "Hwang Heechan",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/hwang-heechan.png"
+    },
+    {
+      "name": "Son Junho",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/son-junho.png"
+    },
+    {
+      "name": "Na Sangho",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/na-sangho.png"
+    },
+    {
+      "name": "Lee Kangin",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/lee-kangin.png"
+    },
+    {
+      "name": "Kwon Changhoon",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/kwon-changhoon.png"
+    },
+    {
+      "name": "Jeong Wooyeong",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/jeong-wooyeong.png"
+    },
+    {
+      "name": "Song Minkyu",
+      "national_team": "Korea Republic",
+      "position": "MF",
+      "image_url": "/players/korea-republic/song-minkyu.png"
+    },
+    {
+      "name": "Cho Guesung",
+      "national_team": "Korea Republic",
+      "position": "FW",
+      "image_url": "/players/korea-republic/cho-guesung.png"
+    },
+    {
+      "name": "Hwang Uijo",
+      "national_team": "Korea Republic",
+      "position": "FW",
+      "image_url": "/players/korea-republic/hwang-uijo.png"
+    },
+    {
+      "name": "Alfredo Talavera",
+      "national_team": "Mexico",
+      "position": "GK",
+      "image_url": "/players/mexico/alfredo-talavera.png"
+    },
+    {
+      "name": "Rodolfo Cota",
+      "national_team": "Mexico",
+      "position": "GK",
+      "image_url": "/players/mexico/rodolfo-cota.png"
+    },
+    {
+      "name": "Guillermo Ochoa",
+      "national_team": "Mexico",
+      "position": "GK",
+      "image_url": "/players/mexico/guillermo-ochoa.png"
+    },
+    {
+      "name": "Nestor Araujo",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/nestor-araujo.png"
+    },
+    {
+      "name": "Cesar Montes",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/cesar-montes.png"
+    },
+    {
+      "name": "Edson Alvarez",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/edson-alvarez.png"
+    },
+    {
+      "name": "Johan Vasquez",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/johan-vasquez.png"
+    },
+    {
+      "name": "Gerardo Arteaga",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/gerardo-arteaga.png"
+    },
+    {
+      "name": "Hector Moreno",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/hector-moreno.png"
+    },
+    {
+      "name": "Jorge Sanchez",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/jorge-sanchez.png"
+    },
+    {
+      "name": "Jesus Gallardo",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/jesus-gallardo.png"
+    },
+    {
+      "name": "Kevin Alvarez",
+      "national_team": "Mexico",
+      "position": "DefensorDefensor",
+      "image_url": "/players/mexico/kevin-alvarez.png"
+    },
+    {
+      "name": "Luis Romo",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/luis-romo.png"
+    },
+    {
+      "name": "Carlos Rodriguez",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/carlos-rodriguez.png"
+    },
+    {
+      "name": "Erick Gutierrez",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/erick-gutierrez.png"
+    },
+    {
+      "name": "Hector Herrera",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/hector-herrera.png"
+    },
+    {
+      "name": "Andres Guardado",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/andres-guardado.png"
+    },
+    {
+      "name": "Luis Chavez",
+      "national_team": "Mexico",
+      "position": "MF",
+      "image_url": "/players/mexico/luis-chavez.png"
+    },
+    {
+      "name": "Raul Jimenez",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/raul-jimenez.png"
+    },
+    {
+      "name": "Alexis Vega",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/alexis-vega.png"
+    },
+    {
+      "name": "Rogelio Funes Mori",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/rogelio-funes-mori.png"
+    },
+    {
+      "name": "Orbelin Pineda",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/orbelin-pineda.png"
+    },
+    {
+      "name": "Henry Martin",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/henry-martin.png"
+    },
+    {
+      "name": "Uriel Antuna",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/uriel-antuna.png"
+    },
+    {
+      "name": "Hirving Lozano",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/hirving-lozano.png"
+    },
+    {
+      "name": "Roberto Alvarado",
+      "national_team": "Mexico",
+      "position": "FW",
+      "image_url": "/players/mexico/roberto-alvarado.png"
+    },
+    {
+      "name": "Yassine Bounou",
+      "national_team": "Morocco",
+      "position": "GK",
+      "image_url": "/players/morocco/yassine-bounou.png"
+    },
+    {
+      "name": "Monir El Kajoui",
+      "national_team": "Morocco",
+      "position": "GK",
+      "image_url": "/players/morocco/monir-el-kajoui.png"
+    },
+    {
+      "name": "Ahmed Tagnaouti",
+      "national_team": "Morocco",
+      "position": "GK",
+      "image_url": "/players/morocco/ahmed-tagnaouti.png"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/achraf-hakimi.png"
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/noussair-mazraoui.png"
+    },
+    {
+      "name": "Nayef Aguerd",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/nayef-aguerd.png"
+    },
+    {
+      "name": "Romain Saiss",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/romain-saiss.png"
+    },
+    {
+      "name": "Jawad El Yamiq",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/jawad-el-yamiq.png"
+    },
+    {
+      "name": "Achraf Dari",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/achraf-dari.png"
+    },
+    {
+      "name": "Badr Benoun",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/badr-benoun.png"
+    },
+    {
+      "name": "Yahya Attiat-allah",
+      "national_team": "Morocco",
+      "position": "DefensorDefensor",
+      "image_url": "/players/morocco/yahya-attiat-allah.png"
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/sofyan-amrabat.png"
+    },
+    {
+      "name": "Hakim Ziyech",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/hakim-ziyech.png"
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/azzedine-ounahi.png"
+    },
+    {
+      "name": "Anass Zaroury",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/anass-zaroury.png"
+    },
+    {
+      "name": "Ilias Chair",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/ilias-chair.png"
+    },
+    {
+      "name": "Zakaria Aboukhlal",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/zakaria-aboukhlal.png"
+    },
+    {
+      "name": "Selim Amallah",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/selim-amallah.png"
+    },
+    {
+      "name": "Sofiane Boufal",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/sofiane-boufal.png"
+    },
+    {
+      "name": "Bilal El Khannouss",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/bilal-el-khannouss.png"
+    },
+    {
+      "name": "Yahya Jabrane",
+      "national_team": "Morocco",
+      "position": "MF",
+      "image_url": "/players/morocco/yahya-jabrane.png"
+    },
+    {
+      "name": "Abderrazak Hamdallah",
+      "national_team": "Morocco",
+      "position": "FW",
+      "image_url": "/players/morocco/abderrazak-hamdallah.png"
+    },
+    {
+      "name": "Abdelhamid Sabiri",
+      "national_team": "Morocco",
+      "position": "FW",
+      "image_url": "/players/morocco/abdelhamid-sabiri.png"
+    },
+    {
+      "name": "Abde Ezzalzouli",
+      "national_team": "Morocco",
+      "position": "FW",
+      "image_url": "/players/morocco/abde-ezzalzouli.png"
+    },
+    {
+      "name": "Youssef En Nesyri",
+      "national_team": "Morocco",
+      "position": "FW",
+      "image_url": "/players/morocco/youssef-en-nesyri.png"
+    },
+    {
+      "name": "Walid Cheddira",
+      "national_team": "Morocco",
+      "position": "FW",
+      "image_url": "/players/morocco/walid-cheddira.png"
+    },
+    {
+      "name": "Remko Pasveer",
+      "national_team": "Netherlands",
+      "position": "GK",
+      "image_url": "/players/netherlands/remko-pasveer.png"
+    },
+    {
+      "name": "Justin Bijlow",
+      "national_team": "Netherlands",
+      "position": "GK",
+      "image_url": "/players/netherlands/justin-bijlow.png"
+    },
+    {
+      "name": "Andries Noppert",
+      "national_team": "Netherlands",
+      "position": "GK",
+      "image_url": "/players/netherlands/andries-noppert.png"
+    },
+    {
+      "name": "Jurrien Timber",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/jurrien-timber.png"
+    },
+    {
+      "name": "Matthijs De Ligt",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/matthijs-de-ligt.png"
+    },
+    {
+      "name": "Virgil Van Dijk",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/virgil-van-dijk.png"
+    },
+    {
+      "name": "Nathan Ake",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/nathan-ake.png"
+    },
+    {
+      "name": "Stefan De Vrij",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/stefan-de-vrij.png"
+    },
+    {
+      "name": "Tyrell Malacia",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/tyrell-malacia.png"
+    },
+    {
+      "name": "Daley Blind",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/daley-blind.png"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/denzel-dumfries.png"
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "national_team": "Netherlands",
+      "position": "DefensorDefensor",
+      "image_url": "/players/netherlands/jeremie-frimpong.png"
+    },
+    {
+      "name": "Steven Berghuis",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/steven-berghuis.png"
+    },
+    {
+      "name": "Davy Klaassen",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/davy-klaassen.png"
+    },
+    {
+      "name": "Marten De Roon",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/marten-de-roon.png"
+    },
+    {
+      "name": "Teun Koopmeiners",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/teun-koopmeiners.png"
+    },
+    {
+      "name": "Frenkie De Jong",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/frenkie-de-jong.png"
+    },
+    {
+      "name": "Kenneth Taylor",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/kenneth-taylor.png"
+    },
+    {
+      "name": "Xavi Simons",
+      "national_team": "Netherlands",
+      "position": "MF",
+      "image_url": "/players/netherlands/xavi-simons.png"
+    },
+    {
+      "name": "Steven Bergwijn",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/steven-bergwijn.png"
+    },
+    {
+      "name": "Cody Gakpo",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/cody-gakpo.png"
+    },
+    {
+      "name": "Luuk De Jong",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/luuk-de-jong.png"
+    },
+    {
+      "name": "Memphis Depay",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/memphis-depay.png"
+    },
+    {
+      "name": "Noa Lang",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/noa-lang.png"
+    },
+    {
+      "name": "Vincent Janssen",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/vincent-janssen.png"
+    },
+    {
+      "name": "Wout Weghorst",
+      "national_team": "Netherlands",
+      "position": "FW",
+      "image_url": "/players/netherlands/wout-weghorst.png"
+    },
+    {
+      "name": "Wojciech Szczesny",
+      "national_team": "Poland",
+      "position": "GK",
+      "image_url": "/players/poland/wojciech-szczesny.png"
+    },
+    {
+      "name": "Lukasz Skorupski",
+      "national_team": "Poland",
+      "position": "GK",
+      "image_url": "/players/poland/lukasz-skorupski.png"
+    },
+    {
+      "name": "Kamil Grabara",
+      "national_team": "Poland",
+      "position": "GK",
+      "image_url": "/players/poland/kamil-grabara.png"
+    },
+    {
+      "name": "Matty Cash",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/matty-cash.png"
+    },
+    {
+      "name": "Artur Jedrzejczyk",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/artur-jedrzejczyk.png"
+    },
+    {
+      "name": "Mateusz Wieteska",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/mateusz-wieteska.png"
+    },
+    {
+      "name": "Jan Bednarek",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/jan-bednarek.png"
+    },
+    {
+      "name": "Jakub Kiwior",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/jakub-kiwior.png"
+    },
+    {
+      "name": "Kamil Glik",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/kamil-glik.png"
+    },
+    {
+      "name": "Bartosz Bereszynski",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/bartosz-bereszynski.png"
+    },
+    {
+      "name": "Robert Gumny",
+      "national_team": "Poland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/poland/robert-gumny.png"
+    },
+    {
+      "name": "Krystian Bielik",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/krystian-bielik.png"
+    },
+    {
+      "name": "Damian Szymanski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/damian-szymanski.png"
+    },
+    {
+      "name": "Grzegorz Krychowiak",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/grzegorz-krychowiak.png"
+    },
+    {
+      "name": "Kamil Grosicki",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/kamil-grosicki.png"
+    },
+    {
+      "name": "Jakub Kaminski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/jakub-kaminski.png"
+    },
+    {
+      "name": "Szymon Zurkowski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/szymon-zurkowski.png"
+    },
+    {
+      "name": "Sebastian Szymanski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/sebastian-szymanski.png"
+    },
+    {
+      "name": "Piotr Zielinski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/piotr-zielinski.png"
+    },
+    {
+      "name": "Nicola Zalewski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/nicola-zalewski.png"
+    },
+    {
+      "name": "Przemyslaw Frankowski",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/przemyslaw-frankowski.png"
+    },
+    {
+      "name": "Michal Skoras",
+      "national_team": "Poland",
+      "position": "MF",
+      "image_url": "/players/poland/michal-skoras.png"
+    },
+    {
+      "name": "Arkadiusz Milik",
+      "national_team": "Poland",
+      "position": "FW",
+      "image_url": "/players/poland/arkadiusz-milik.png"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "national_team": "Poland",
+      "position": "FW",
+      "image_url": "/players/poland/robert-lewandowski.png"
+    },
+    {
+      "name": "Karol Swiderski",
+      "national_team": "Poland",
+      "position": "FW",
+      "image_url": "/players/poland/karol-swiderski.png"
+    },
+    {
+      "name": "Krzysztof Piatek",
+      "national_team": "Poland",
+      "position": "FW",
+      "image_url": "/players/poland/krzysztof-piatek.png"
+    },
+    {
+      "name": "Rui Patricio",
+      "national_team": "Portugal",
+      "position": "GK",
+      "image_url": "/players/portugal/rui-patricio.png"
+    },
+    {
+      "name": "Jose Sa",
+      "national_team": "Portugal",
+      "position": "GK",
+      "image_url": "/players/portugal/jose-sa.png"
+    },
+    {
+      "name": "Diogo Costa",
+      "national_team": "Portugal",
+      "position": "GK",
+      "image_url": "/players/portugal/diogo-costa.png"
+    },
+    {
+      "name": "Diogo Dalot",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/diogo-dalot.png"
+    },
+    {
+      "name": "Pepe",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/pepe.png"
+    },
+    {
+      "name": "Ruben Dias",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/ruben-dias.png"
+    },
+    {
+      "name": "Raphael Guerreiro",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/raphael-guerreiro.png"
+    },
+    {
+      "name": "Danilo",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/danilo.png"
+    },
+    {
+      "name": "Nuno Mendes",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/nuno-mendes.png"
+    },
+    {
+      "name": "Joao Cancelo",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/joao-cancelo.png"
+    },
+    {
+      "name": "Antonio Silva",
+      "national_team": "Portugal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/portugal/antonio-silva.png"
+    },
+    {
+      "name": "Joao Palhinha",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/joao-palhinha.png"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/bruno-fernandes.png"
+    },
+    {
+      "name": "William",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/william.png"
+    },
+    {
+      "name": "Vitinha",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/vitinha.png"
+    },
+    {
+      "name": "Joao Mario",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/joao-mario.png"
+    },
+    {
+      "name": "Ruben Neves",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/ruben-neves.png"
+    },
+    {
+      "name": "Matheus Nunes",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/matheus-nunes.png"
+    },
+    {
+      "name": "Otavio",
+      "national_team": "Portugal",
+      "position": "MF",
+      "image_url": "/players/portugal/otavio.png"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/cristiano-ronaldo.png"
+    },
+    {
+      "name": "Andre Silva",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/andre-silva.png"
+    },
+    {
+      "name": "Bernardo Silva",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/bernardo-silva.png"
+    },
+    {
+      "name": "Joao Felix",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/joao-felix.png"
+    },
+    {
+      "name": "Rafael Leao",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/rafael-leao.png"
+    },
+    {
+      "name": "Ricardo Horta",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/ricardo-horta.png"
+    },
+    {
+      "name": "Goncalo Ramos",
+      "national_team": "Portugal",
+      "position": "FW",
+      "image_url": "/players/portugal/goncalo-ramos.png"
+    },
+    {
+      "name": "Saad Alsheeb",
+      "national_team": "Qatar",
+      "position": "GK",
+      "image_url": "/players/qatar/saad-alsheeb.png"
+    },
+    {
+      "name": "Yousof Hassan",
+      "national_team": "Qatar",
+      "position": "GK",
+      "image_url": "/players/qatar/yousof-hassan.png"
+    },
+    {
+      "name": "Meshaal Barsham",
+      "national_team": "Qatar",
+      "position": "GK",
+      "image_url": "/players/qatar/meshaal-barsham.png"
+    },
+    {
+      "name": "Pedro Miguel",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/pedro-miguel.png"
+    },
+    {
+      "name": "Mohammed Waad",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/mohammed-waad.png"
+    },
+    {
+      "name": "Tarek Salman",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/tarek-salman.png"
+    },
+    {
+      "name": "Musaab Khidir",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/musaab-khidir.png"
+    },
+    {
+      "name": "Homam Ahmed",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/homam-ahmed.png"
+    },
+    {
+      "name": "Bassam Hisham",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/bassam-hisham.png"
+    },
+    {
+      "name": "Boualem Khoukhi",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/boualem-khoukhi.png"
+    },
+    {
+      "name": "Ismail Mohamad",
+      "national_team": "Qatar",
+      "position": "DefensorDefensor",
+      "image_url": "/players/qatar/ismail-mohamad.png"
+    },
+    {
+      "name": "Abdelkarim Hassan",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/abdelkarim-hassan.png"
+    },
+    {
+      "name": "Abdulaziz Hatem",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/abdulaziz-hatem.png"
+    },
+    {
+      "name": "Ali Assadalla",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/ali-assadalla.png"
+    },
+    {
+      "name": "Hassan Alhaydos",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/hassan-alhaydos.png"
+    },
+    {
+      "name": "Karim Boudiaf",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/karim-boudiaf.png"
+    },
+    {
+      "name": "Salem Al Hajri",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/salem-al-hajri.png"
+    },
+    {
+      "name": "Assim Madibo",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/assim-madibo.png"
+    },
+    {
+      "name": "Naif Abdulraheem",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/naif-abdulraheem.png"
+    },
+    {
+      "name": "Jassem Gaber",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/jassem-gaber.png"
+    },
+    {
+      "name": "Moustafa Tarek",
+      "national_team": "Qatar",
+      "position": "MF",
+      "image_url": "/players/qatar/moustafa-tarek.png"
+    },
+    {
+      "name": "Ahmed Alaaeldin",
+      "national_team": "Qatar",
+      "position": "FW",
+      "image_url": "/players/qatar/ahmed-alaaeldin.png"
+    },
+    {
+      "name": "Mohammed Muntari",
+      "national_team": "Qatar",
+      "position": "FW",
+      "image_url": "/players/qatar/mohammed-muntari.png"
+    },
+    {
+      "name": "Akram Afif",
+      "national_team": "Qatar",
+      "position": "FW",
+      "image_url": "/players/qatar/akram-afif.png"
+    },
+    {
+      "name": "Khalid Muneer",
+      "national_team": "Qatar",
+      "position": "FW",
+      "image_url": "/players/qatar/khalid-muneer.png"
+    },
+    {
+      "name": "Almoez Ali",
+      "national_team": "Qatar",
+      "position": "FW",
+      "image_url": "/players/qatar/almoez-ali.png"
+    },
+    {
+      "name": "Mohammed Alyami",
+      "national_team": "Saudi Arabia",
+      "position": "GK",
+      "image_url": "/players/saudi-arabia/mohammed-alyami.png"
+    },
+    {
+      "name": "Mohammed Alowais",
+      "national_team": "Saudi Arabia",
+      "position": "GK",
+      "image_url": "/players/saudi-arabia/mohammed-alowais.png"
+    },
+    {
+      "name": "Nawaf Alaqidi",
+      "national_team": "Saudi Arabia",
+      "position": "GK",
+      "image_url": "/players/saudi-arabia/nawaf-alaqidi.png"
+    },
+    {
+      "name": "Sultan Alghannam",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/sultan-alghannam.png"
+    },
+    {
+      "name": "Abdullah Madu",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/abdullah-madu.png"
+    },
+    {
+      "name": "Abdulelah Alamri",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/abdulelah-alamri.png"
+    },
+    {
+      "name": "Ali Albulayhi",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/ali-albulayhi.png"
+    },
+    {
+      "name": "Mohammed Alburayk",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/mohammed-alburayk.png"
+    },
+    {
+      "name": "Saud Abdulhamid",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/saud-abdulhamid.png"
+    },
+    {
+      "name": "Yasser Alshahrani",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/yasser-alshahrani.png"
+    },
+    {
+      "name": "Hassan Altambakti",
+      "national_team": "Saudi Arabia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/saudi-arabia/hassan-altambakti.png"
+    },
+    {
+      "name": "Salman Alfaraj",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/salman-alfaraj.png"
+    },
+    {
+      "name": "Abdulelah Almalki",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/abdulelah-almalki.png"
+    },
+    {
+      "name": "Abdullah Otayf",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/abdullah-otayf.png"
+    },
+    {
+      "name": "Ali Alhassan",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/ali-alhassan.png"
+    },
+    {
+      "name": "Sami Alnaji",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/sami-alnaji.png"
+    },
+    {
+      "name": "Nawaf Al Abid",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/nawaf-al-abid.png"
+    },
+    {
+      "name": "Mohamed Kanno",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/mohamed-kanno.png"
+    },
+    {
+      "name": "Nasser Aldawsari",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/nasser-aldawsari.png"
+    },
+    {
+      "name": "Riyadh Sharahili",
+      "national_team": "Saudi Arabia",
+      "position": "MF",
+      "image_url": "/players/saudi-arabia/riyadh-sharahili.png"
+    },
+    {
+      "name": "Feras Albrikan",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/feras-albrikan.png"
+    },
+    {
+      "name": "Salem Aldawsari",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/salem-aldawsari.png"
+    },
+    {
+      "name": "Saleh Alshehri",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/saleh-alshehri.png"
+    },
+    {
+      "name": "Hatan Bahbri",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/hatan-bahbri.png"
+    },
+    {
+      "name": "Abdulrahman Alobud",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/abdulrahman-alobud.png"
+    },
+    {
+      "name": "Haitham Asiri",
+      "national_team": "Saudi Arabia",
+      "position": "FW",
+      "image_url": "/players/saudi-arabia/haitham-asiri.png"
+    },
+    {
+      "name": "Seny Dieng",
+      "national_team": "Senegal",
+      "position": "GK",
+      "image_url": "/players/senegal/seny-dieng.png"
+    },
+    {
+      "name": "Edouard Mendy",
+      "national_team": "Senegal",
+      "position": "GK",
+      "image_url": "/players/senegal/edouard-mendy.png"
+    },
+    {
+      "name": "Alfred Gomis",
+      "national_team": "Senegal",
+      "position": "GK",
+      "image_url": "/players/senegal/alfred-gomis.png"
+    },
+    {
+      "name": "Formose Mendy",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/formose-mendy.png"
+    },
+    {
+      "name": "Kalidou Koulibaly",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/kalidou-koulibaly.png"
+    },
+    {
+      "name": "Pape Abou Cisse",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/pape-abou-cisse.png"
+    },
+    {
+      "name": "Cheikhou Kouyate",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/cheikhou-kouyate.png"
+    },
+    {
+      "name": "Moussa Ndiaye",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/moussa-ndiaye.png"
+    },
+    {
+      "name": "Fode Ballo",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/fode-ballo.png"
+    },
+    {
+      "name": "Ismail Jakobs",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/ismail-jakobs.png"
+    },
+    {
+      "name": "Youssouf Sabaly",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/youssouf-sabaly.png"
+    },
+    {
+      "name": "Abdou Diallo",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/abdou-diallo.png"
+    },
+    {
+      "name": "Moustapha Name",
+      "national_team": "Senegal",
+      "position": "DefensorDefensor",
+      "image_url": "/players/senegal/moustapha-name.png"
+    },
+    {
+      "name": "Idrissa Gana Gueye",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/idrissa-gana-gueye.png"
+    },
+    {
+      "name": "Nampalys Mendy",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/nampalys-mendy.png"
+    },
+    {
+      "name": "Pathe Ciss",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/pathe-ciss.png"
+    },
+    {
+      "name": "Krepin Diatta",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/krepin-diatta.png"
+    },
+    {
+      "name": "Pape Sarr",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/pape-sarr.png"
+    },
+    {
+      "name": "Mamadou Ndiaye",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/mamadou-ndiaye.png"
+    },
+    {
+      "name": "Pape Gueye",
+      "national_team": "Senegal",
+      "position": "MF",
+      "image_url": "/players/senegal/pape-gueye.png"
+    },
+    {
+      "name": "Nicolas Jackson",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/nicolas-jackson.png"
+    },
+    {
+      "name": "Boulaye Dia",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/boulaye-dia.png"
+    },
+    {
+      "name": "Iliman Ndiaye",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/iliman-ndiaye.png"
+    },
+    {
+      "name": "Ismaila Sarr",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/ismaila-sarr.png"
+    },
+    {
+      "name": "Famara Diedhiou",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/famara-diedhiou.png"
+    },
+    {
+      "name": "Cheikh Dieng",
+      "national_team": "Senegal",
+      "position": "FW",
+      "image_url": "/players/senegal/cheikh-dieng.png"
+    },
+    {
+      "name": "Marko Dmitrovic",
+      "national_team": "Serbia",
+      "position": "GK",
+      "image_url": "/players/serbia/marko-dmitrovic.png"
+    },
+    {
+      "name": "Predrag Rajkovic",
+      "national_team": "Serbia",
+      "position": "GK",
+      "image_url": "/players/serbia/predrag-rajkovic.png"
+    },
+    {
+      "name": "Vanja Milinkovic",
+      "national_team": "Serbia",
+      "position": "GK",
+      "image_url": "/players/serbia/vanja-milinkovic.png"
+    },
+    {
+      "name": "Strahinja Pavlovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/strahinja-pavlovic.png"
+    },
+    {
+      "name": "Strahinja Erakovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/strahinja-erakovic.png"
+    },
+    {
+      "name": "Nikola Milenkovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/nikola-milenkovic.png"
+    },
+    {
+      "name": "Milos Veljkovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/milos-veljkovic.png"
+    },
+    {
+      "name": "Stefan Mitrovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/stefan-mitrovic.png"
+    },
+    {
+      "name": "Srdan Babic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/srdan-babic.png"
+    },
+    {
+      "name": "Filip Mladenovic",
+      "national_team": "Serbia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/serbia/filip-mladenovic.png"
+    },
+    {
+      "name": "Nemanja Maksimovic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/nemanja-maksimovic.png"
+    },
+    {
+      "name": "Nemanja Gudelj",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/nemanja-gudelj.png"
+    },
+    {
+      "name": "Andrija Zivkovic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/andrija-zivkovic.png"
+    },
+    {
+      "name": "Sasa Lukic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/sasa-lukic.png"
+    },
+    {
+      "name": "Filip Kostic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/filip-kostic.png"
+    },
+    {
+      "name": "Uros Racic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/uros-racic.png"
+    },
+    {
+      "name": "Sergej Milinkovic-savic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/sergej-milinkovic-savic.png"
+    },
+    {
+      "name": "Darko Lazovic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/darko-lazovic.png"
+    },
+    {
+      "name": "Ivan Ilic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/ivan-ilic.png"
+    },
+    {
+      "name": "Marko Grujic",
+      "national_team": "Serbia",
+      "position": "MF",
+      "image_url": "/players/serbia/marko-grujic.png"
+    },
+    {
+      "name": "Nemanja Radonjic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/nemanja-radonjic.png"
+    },
+    {
+      "name": "Aleksandar Mitrovic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/aleksandar-mitrovic.png"
+    },
+    {
+      "name": "Dusan Tadic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/dusan-tadic.png"
+    },
+    {
+      "name": "Luka Jovic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/luka-jovic.png"
+    },
+    {
+      "name": "Dusan Vlahovic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/dusan-vlahovic.png"
+    },
+    {
+      "name": "Filip Djuricic",
+      "national_team": "Serbia",
+      "position": "FW",
+      "image_url": "/players/serbia/filip-djuricic.png"
+    },
+    {
+      "name": "Robert Sanchez",
+      "national_team": "Spain",
+      "position": "GK",
+      "image_url": "/players/spain/robert-sanchez.png"
+    },
+    {
+      "name": "David Raya",
+      "national_team": "Spain",
+      "position": "GK",
+      "image_url": "/players/spain/david-raya.png"
+    },
+    {
+      "name": "Unai Simon",
+      "national_team": "Spain",
+      "position": "GK",
+      "image_url": "/players/spain/unai-simon.png"
+    },
+    {
+      "name": "Cesar Azpilicueta",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/cesar-azpilicueta.png"
+    },
+    {
+      "name": "Eric Garcia",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/eric-garcia.png"
+    },
+    {
+      "name": "Pau Torres",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/pau-torres.png"
+    },
+    {
+      "name": "Alejandro Balde",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/alejandro-balde.png"
+    },
+    {
+      "name": "Hugo Guillamon",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/hugo-guillamon.png"
+    },
+    {
+      "name": "Jordi Alba",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/jordi-alba.png"
+    },
+    {
+      "name": "Dani Carvajal",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/dani-carvajal.png"
+    },
+    {
+      "name": "Aymeric Laporte",
+      "national_team": "Spain",
+      "position": "DefensorDefensor",
+      "image_url": "/players/spain/aymeric-laporte.png"
+    },
+    {
+      "name": "Sergio Busquets",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/sergio-busquets.png"
+    },
+    {
+      "name": "Marcos Llorente",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/marcos-llorente.png"
+    },
+    {
+      "name": "Koke",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/koke.png"
+    },
+    {
+      "name": "Gavi",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/gavi.png"
+    },
+    {
+      "name": "Rodri",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/rodri.png"
+    },
+    {
+      "name": "Carlos Soler",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/carlos-soler.png"
+    },
+    {
+      "name": "Pedri Gonzalez",
+      "national_team": "Spain",
+      "position": "MF",
+      "image_url": "/players/spain/pedri-gonzalez.png"
+    },
+    {
+      "name": "Alvaro Morata",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/alvaro-morata.png"
+    },
+    {
+      "name": "Marco Asensio",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/marco-asensio.png"
+    },
+    {
+      "name": "Ferran Torres",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/ferran-torres.png"
+    },
+    {
+      "name": "Nico Williams",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/nico-williams.png"
+    },
+    {
+      "name": "Yeremy Pino",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/yeremy-pino.png"
+    },
+    {
+      "name": "Dani Olmo",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/dani-olmo.png"
+    },
+    {
+      "name": "Pablo Sarabia",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/pablo-sarabia.png"
+    },
+    {
+      "name": "Ansu Fati",
+      "national_team": "Spain",
+      "position": "FW",
+      "image_url": "/players/spain/ansu-fati.png"
+    },
+    {
+      "name": "Yann Sommer",
+      "national_team": "Switzerland",
+      "position": "GK",
+      "image_url": "/players/switzerland/yann-sommer.png"
+    },
+    {
+      "name": "Jonas Omlin",
+      "national_team": "Switzerland",
+      "position": "GK",
+      "image_url": "/players/switzerland/jonas-omlin.png"
+    },
+    {
+      "name": "Gregor Kobel",
+      "national_team": "Switzerland",
+      "position": "GK",
+      "image_url": "/players/switzerland/gregor-kobel.png"
+    },
+    {
+      "name": "Philipp Koehn",
+      "national_team": "Switzerland",
+      "position": "GK",
+      "image_url": "/players/switzerland/philipp-koehn.png"
+    },
+    {
+      "name": "Edimilson Fernandes",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/edimilson-fernandes.png"
+    },
+    {
+      "name": "Silvan Widmer",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/silvan-widmer.png"
+    },
+    {
+      "name": "Nico Elvedi",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/nico-elvedi.png"
+    },
+    {
+      "name": "Manuel Akanji",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/manuel-akanji.png"
+    },
+    {
+      "name": "Renato Steffen",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/renato-steffen.png"
+    },
+    {
+      "name": "Ricardo Rodriguez",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/ricardo-rodriguez.png"
+    },
+    {
+      "name": "Eray Comert",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/eray-comert.png"
+    },
+    {
+      "name": "Fabian Schaer",
+      "national_team": "Switzerland",
+      "position": "DefensorDefensor",
+      "image_url": "/players/switzerland/fabian-schaer.png"
+    },
+    {
+      "name": "Denis Zakaria",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/denis-zakaria.png"
+    },
+    {
+      "name": "Remo Freuler",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/remo-freuler.png"
+    },
+    {
+      "name": "Granit Xhaka",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/granit-xhaka.png"
+    },
+    {
+      "name": "Michel Aebischer",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/michel-aebischer.png"
+    },
+    {
+      "name": "Mohameth Sow",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/mohameth-sow.png"
+    },
+    {
+      "name": "Christian Fassnacht",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/christian-fassnacht.png"
+    },
+    {
+      "name": "Fabian Frei",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/fabian-frei.png"
+    },
+    {
+      "name": "Xherdan Shaqiri",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/xherdan-shaqiri.png"
+    },
+    {
+      "name": "Fabian Rieder",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/fabian-rieder.png"
+    },
+    {
+      "name": "Ardon Jashari",
+      "national_team": "Switzerland",
+      "position": "MF",
+      "image_url": "/players/switzerland/ardon-jashari.png"
+    },
+    {
+      "name": "Breel Embolo",
+      "national_team": "Switzerland",
+      "position": "FW",
+      "image_url": "/players/switzerland/breel-embolo.png"
+    },
+    {
+      "name": "Haris Seferovic",
+      "national_team": "Switzerland",
+      "position": "FW",
+      "image_url": "/players/switzerland/haris-seferovic.png"
+    },
+    {
+      "name": "Ruben Vargas",
+      "national_team": "Switzerland",
+      "position": "FW",
+      "image_url": "/players/switzerland/ruben-vargas.png"
+    },
+    {
+      "name": "Noah Okafor",
+      "national_team": "Switzerland",
+      "position": "FW",
+      "image_url": "/players/switzerland/noah-okafor.png"
+    },
+    {
+      "name": "Aymen Mathlouthi",
+      "national_team": "Tunisia",
+      "position": "GK",
+      "image_url": "/players/tunisia/aymen-mathlouthi.png"
+    },
+    {
+      "name": "Aymen Dahmen",
+      "national_team": "Tunisia",
+      "position": "GK",
+      "image_url": "/players/tunisia/aymen-dahmen.png"
+    },
+    {
+      "name": "Bechir Ben Said",
+      "national_team": "Tunisia",
+      "position": "GK",
+      "image_url": "/players/tunisia/bechir-ben-said.png"
+    },
+    {
+      "name": "Mouez Hassen",
+      "national_team": "Tunisia",
+      "position": "GK",
+      "image_url": "/players/tunisia/mouez-hassen.png"
+    },
+    {
+      "name": "Bilel Ifa",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/bilel-ifa.png"
+    },
+    {
+      "name": "Montassar Talbi",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/montassar-talbi.png"
+    },
+    {
+      "name": "Yassine Meriah",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/yassine-meriah.png"
+    },
+    {
+      "name": "Dylan Bronn",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/dylan-bronn.png"
+    },
+    {
+      "name": "Ali Maaloul",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/ali-maaloul.png"
+    },
+    {
+      "name": "Mohamed Drager",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/mohamed-drager.png"
+    },
+    {
+      "name": "Wajdi Kechrida",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/wajdi-kechrida.png"
+    },
+    {
+      "name": "Ali Abdi",
+      "national_team": "Tunisia",
+      "position": "DefensorDefensor",
+      "image_url": "/players/tunisia/ali-abdi.png"
+    },
+    {
+      "name": "Nader Ghandri",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/nader-ghandri.png"
+    },
+    {
+      "name": "Hannibal Mejbri",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/hannibal-mejbri.png"
+    },
+    {
+      "name": "Ferjani Sassi",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/ferjani-sassi.png"
+    },
+    {
+      "name": "Aissa Laidouni",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/aissa-laidouni.png"
+    },
+    {
+      "name": "Ben Romdhane Ali",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/ben-romdhane-ali.png"
+    },
+    {
+      "name": "Ellyes Skhiri",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/ellyes-skhiri.png"
+    },
+    {
+      "name": "Ghaylen Chaaleli",
+      "national_team": "Tunisia",
+      "position": "MF",
+      "image_url": "/players/tunisia/ghaylen-chaaleli.png"
+    },
+    {
+      "name": "Youssef Msakni",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/youssef-msakni.png"
+    },
+    {
+      "name": "Issam Jebali",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/issam-jebali.png"
+    },
+    {
+      "name": "Wahbi Khazri",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/wahbi-khazri.png"
+    },
+    {
+      "name": "Taha Khenissi",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/taha-khenissi.png"
+    },
+    {
+      "name": "Seifeddine Jaziri",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/seifeddine-jaziri.png"
+    },
+    {
+      "name": "Naim Sliti",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/naim-sliti.png"
+    },
+    {
+      "name": "Anis Slimane",
+      "national_team": "Tunisia",
+      "position": "FW",
+      "image_url": "/players/tunisia/anis-slimane.png"
+    },
+    {
+      "name": "Matt Turner",
+      "national_team": "United States",
+      "position": "GK",
+      "image_url": "/players/united-states/matt-turner.png"
+    },
+    {
+      "name": "Ethan Horvath",
+      "national_team": "United States",
+      "position": "GK",
+      "image_url": "/players/united-states/ethan-horvath.png"
+    },
+    {
+      "name": "Sean Johnson",
+      "national_team": "United States",
+      "position": "GK",
+      "image_url": "/players/united-states/sean-johnson.png"
+    },
+    {
+      "name": "Sergino Dest",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/sergino-dest.png"
+    },
+    {
+      "name": "Walker Zimmerman",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/walker-zimmerman.png"
+    },
+    {
+      "name": "Antonee Robinson",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/antonee-robinson.png"
+    },
+    {
+      "name": "Tim Ream",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/tim-ream.png"
+    },
+    {
+      "name": "Aaron Long",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/aaron-long.png"
+    },
+    {
+      "name": "Shaquell Moore",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/shaquell-moore.png"
+    },
+    {
+      "name": "Cameron Carter-vickers",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/cameron-carter-vickers.png"
+    },
+    {
+      "name": "DeAndre Yedlin",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/deandre-yedlin.png"
+    },
+    {
+      "name": "Joe Scally",
+      "national_team": "United States",
+      "position": "DefensorDefensor",
+      "image_url": "/players/united-states/joe-scally.png"
+    },
+    {
+      "name": "Tyler Adams",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/tyler-adams.png"
+    },
+    {
+      "name": "Yunus Musah",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/yunus-musah.png"
+    },
+    {
+      "name": "Weston McKENNIE",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/weston-mckennie.png"
+    },
+    {
+      "name": "Luca De La Torre",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/luca-de-la-torre.png"
+    },
+    {
+      "name": "Cristian Roldan",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/cristian-roldan.png"
+    },
+    {
+      "name": "Kellyn Perry-acosta",
+      "national_team": "United States",
+      "position": "MF",
+      "image_url": "/players/united-states/kellyn-perry-acosta.png"
+    },
+    {
+      "name": "Giovanni Reyna",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/giovanni-reyna.png"
+    },
+    {
+      "name": "Jesus Ferreira",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/jesus-ferreira.png"
+    },
+    {
+      "name": "Christian Pulisic",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/christian-pulisic.png"
+    },
+    {
+      "name": "Brenden Aaronson",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/brenden-aaronson.png"
+    },
+    {
+      "name": "Jordan Morris",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/jordan-morris.png"
+    },
+    {
+      "name": "Haji Wright",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/haji-wright.png"
+    },
+    {
+      "name": "Tim Weah",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/tim-weah.png"
+    },
+    {
+      "name": "Josh Sargent",
+      "national_team": "United States",
+      "position": "FW",
+      "image_url": "/players/united-states/josh-sargent.png"
+    },
+    {
+      "name": "Fernando Muslera",
+      "national_team": "Uruguay",
+      "position": "GK",
+      "image_url": "/players/uruguay/fernando-muslera.png"
+    },
+    {
+      "name": "Sebastian Sosa",
+      "national_team": "Uruguay",
+      "position": "GK",
+      "image_url": "/players/uruguay/sebastian-sosa.png"
+    },
+    {
+      "name": "Sergio Rochet",
+      "national_team": "Uruguay",
+      "position": "GK",
+      "image_url": "/players/uruguay/sergio-rochet.png"
+    },
+    {
+      "name": "Jose Gimenez",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/jose-gimenez.png"
+    },
+    {
+      "name": "Diego Godin",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/diego-godin.png"
+    },
+    {
+      "name": "Ronald Araujo",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/ronald-araujo.png"
+    },
+    {
+      "name": "Guillermo Varela",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/guillermo-varela.png"
+    },
+    {
+      "name": "Mathias Olivera",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/mathias-olivera.png"
+    },
+    {
+      "name": "Matias Vina",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/matias-vina.png"
+    },
+    {
+      "name": "Sebastian Coates",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/sebastian-coates.png"
+    },
+    {
+      "name": "Martin Caceres",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/martin-caceres.png"
+    },
+    {
+      "name": "Jose Luis Rodriguez",
+      "national_team": "Uruguay",
+      "position": "DefensorDefensor",
+      "image_url": "/players/uruguay/jose-luis-rodriguez.png"
+    },
+    {
+      "name": "Matias Vecino",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/matias-vecino.png"
+    },
+    {
+      "name": "Rodrigo Bentancur",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/rodrigo-bentancur.png"
+    },
+    {
+      "name": "Nicolas De La Cruz",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/nicolas-de-la-cruz.png"
+    },
+    {
+      "name": "Giorgian De Arrascaeta",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/giorgian-de-arrascaeta.png"
+    },
+    {
+      "name": "Lucas Torreira",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/lucas-torreira.png"
+    },
+    {
+      "name": "Federico Valverde",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/federico-valverde.png"
+    },
+    {
+      "name": "Agustin Canobbio",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/agustin-canobbio.png"
+    },
+    {
+      "name": "Manuel Ugarte",
+      "national_team": "Uruguay",
+      "position": "MF",
+      "image_url": "/players/uruguay/manuel-ugarte.png"
+    },
+    {
+      "name": "Facundo Pellistri",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/facundo-pellistri.png"
+    },
+    {
+      "name": "Luis Suarez",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/luis-suarez.png"
+    },
+    {
+      "name": "Darwin Nunez",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/darwin-nunez.png"
+    },
+    {
+      "name": "Maximiliano Gomez",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/maximiliano-gomez.png"
+    },
+    {
+      "name": "Facundo Torres",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/facundo-torres.png"
+    },
+    {
+      "name": "Edinson Cavani",
+      "national_team": "Uruguay",
+      "position": "FW",
+      "image_url": "/players/uruguay/edinson-cavani.png"
+    },
+    {
+      "name": "Wayne Hennessey",
+      "national_team": "Wales",
+      "position": "GK",
+      "image_url": "/players/wales/wayne-hennessey.png"
+    },
+    {
+      "name": "Danny Ward",
+      "national_team": "Wales",
+      "position": "GK",
+      "image_url": "/players/wales/danny-ward.png"
+    },
+    {
+      "name": "Adam Davies",
+      "national_team": "Wales",
+      "position": "GK",
+      "image_url": "/players/wales/adam-davies.png"
+    },
+    {
+      "name": "Chris Gunter",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/chris-gunter.png"
+    },
+    {
+      "name": "Neco Williams",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/neco-williams.png"
+    },
+    {
+      "name": "Ben Davies",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/ben-davies.png"
+    },
+    {
+      "name": "Chris Mepham",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/chris-mepham.png"
+    },
+    {
+      "name": "Joe Rodon",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/joe-rodon.png"
+    },
+    {
+      "name": "Connor Roberts",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/connor-roberts.png"
+    },
+    {
+      "name": "Ethan Ampadu",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/ethan-ampadu.png"
+    },
+    {
+      "name": "Tom Lockyer",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/tom-lockyer.png"
+    },
+    {
+      "name": "Ben Cabango",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/ben-cabango.png"
+    },
+    {
+      "name": "Rubin Colwill",
+      "national_team": "Wales",
+      "position": "DefensorDefensor",
+      "image_url": "/players/wales/rubin-colwill.png"
+    },
+    {
+      "name": "Joe Allen",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/joe-allen.png"
+    },
+    {
+      "name": "Harry Wilson",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/harry-wilson.png"
+    },
+    {
+      "name": "Aaron Ramsey",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/aaron-ramsey.png"
+    },
+    {
+      "name": "Joseff Morrell",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/joseff-morrell.png"
+    },
+    {
+      "name": "Jonathan Williams",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/jonathan-williams.png"
+    },
+    {
+      "name": "Sorba Thomas",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/sorba-thomas.png"
+    },
+    {
+      "name": "Dylan Levitt",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/dylan-levitt.png"
+    },
+    {
+      "name": "Matt Smith",
+      "national_team": "Wales",
+      "position": "MF",
+      "image_url": "/players/wales/matt-smith.png"
+    },
+    {
+      "name": "Brennan Johnson",
+      "national_team": "Wales",
+      "position": "FW",
+      "image_url": "/players/wales/brennan-johnson.png"
+    },
+    {
+      "name": "Gareth Bale",
+      "national_team": "Wales",
+      "position": "FW",
+      "image_url": "/players/wales/gareth-bale.png"
+    },
+    {
+      "name": "Kieffer Moore",
+      "national_team": "Wales",
+      "position": "FW",
+      "image_url": "/players/wales/kieffer-moore.png"
+    },
+    {
+      "name": "Mark Harris",
+      "national_team": "Wales",
+      "position": "FW",
+      "image_url": "/players/wales/mark-harris.png"
+    },
+    {
+      "name": "Daniel James",
+      "national_team": "Wales",
+      "position": "FW",
+      "image_url": "/players/wales/daniel-james.png"
+    }
+  ]
+}
